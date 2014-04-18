@@ -14,7 +14,8 @@ define(['angular'], function (ng) {
     'app.providers',
     'app.controllers',
     'app.services',
-    'app.directives'
+    'app.directives',
+    'shanghan'
   ]);
 
   module.config([

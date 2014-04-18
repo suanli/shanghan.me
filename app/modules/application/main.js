@@ -6,6 +6,7 @@ define([
     'cs_common',
     'cs_session',
     'users',
+    'shanghan',
 
     // Controllers
     './scripts/application_controller',

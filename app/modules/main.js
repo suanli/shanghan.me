@@ -5,7 +5,8 @@ require.config({
     'cs_account',
     'cs_common',
     'cs_session',
-    'users'
+    'users',
+    'shanghan'
   ],
   paths: {
     angular: '../components/angular/angular',
