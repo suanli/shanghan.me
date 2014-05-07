@@ -31,7 +31,7 @@ define(['angular'], function (ng) {
 
       CSTemplateProvider.setPath('/modules/application/views');
 
-      // CSHttpOptionsProvider.setDomain('/api');
+      CSHttpOptionsProvider.setDomain('http://localhost:9000/');
 
       CSSessionProvider.setSessionService('CSSessionService');
 

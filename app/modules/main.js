@@ -17,12 +17,16 @@ require.config({
     ngRoute: '../components/angular-route/angular-route',
     ngSanitize: '../components/angular-sanitize/angular-sanitize',
     'http-auth-interceptor': '../components/angular-http-auth/src/http-auth-interceptor',
-    bootstrap: '../scripts/bootstrap'
+    bootstrap: '../scripts/bootstrap',
+	  angular_bootstrap: '../components/angular-ui-bootstrap/dist/ui-bootstrap-0.10.0'
   },
   shim: {
     angular: {
       exports: 'angular'
     },
+	  angular_bootstrap: {
+		  deps: ['angular']
+	  },
     ngCookies: {
       deps: ['angular']
     },
@@ -54,6 +58,7 @@ require([
   'ngSanitize',
   'http-auth-interceptor',
   'bootstrap',
+	'angular_bootstrap',
 
   // Init
   'application',

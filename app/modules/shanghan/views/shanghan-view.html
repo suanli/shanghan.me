@@ -1,26 +1,57 @@
-<h1>{{something}}</h1>
-
-<p>This is the Cleverstack example module!</p>
-
-<p>There are a couple of things to do to make a module:</p>
-
-<ol>
-  <li>
-    <h4>Write a module.js</h4>
-    <p>This is saved in the root of your module folder where you'll instantiate and configure your angular module.</p>
-  </li>
-  <li>
-    <h4>Write a main.js</h4>
-    <p>This is a require.js main.js file used to list the javascript files used by your module; it's stored in the root of your module folder with the module.js file.</p>
-  </li>
-  <li>
-    <h4>Add your module as a package to the modules/main.js file</h4>
-    <p>In the modules/main.js file add your module's foldername to the packages array to allow other modules to use it.</p>
-  </li>
-  <li>
-    <h4>Add your module to your application module's main.js and module.js</h4>
-    <p>Before your new module can be used you'll need to add it to your application module's main.js and module.js.</p>
-  </li>
-</ol>
-
-<p>Aside from the main.js and module.js files, you can organise your module's files any way you like as long as you keep your module.js and main.js files up-to-date with their location and of course.</p>
+<div class="sh-main">
+    <div ng-controller="mainItemController">
+        <div class="page-header sh-chapter-title"><h1>太阳病辨脉并治上</h1></div>
+        <div class="row">
+            <div class="col-md-1 sh-index"><button type="button" class="btn btn-xs btn-default">6.13</button></div>
+            <div class="col-md-11 sh-item-content">
+                <div class="row ">
+                    <div class="col-md-12 sh-item-text">
+                        太陽中風，陽浮而陰弱。陽浮者，熱自發；陰弱者，汗自出。嗇嗇惡
+                        寒，淅淅惡風，翕翕發熱，鼻鳴乾嘔者，桂枝湯主之。
+                    </div>
+                </div>
+                <div class="row sh-item-recipe">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-12 sh-item-recipe-title">
+                                <strong>桂枝湯方</strong>
+                            </div>
+                        </div>
+                        <div class="row sh-item-recipe-text">
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-4 sh-herb">
+                                        <strong>桂枝</strong><small>三兩（去皮）</small>
+                                    </div>
+                                    <div class="col-md-4 sh-herb">
+                                        <strong>芍藥</strong><small>三兩</small>
+                                    </div>
+                                    <div class="col-md-4 sh-herb">
+                                        <strong>甘草</strong><small>二兩（炙）</small>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-4 sh-herb">
+                                        <strong>生薑</strong><small>三兩（切）</small>
+                                    </div>
+                                    <div class="col-md-4 sh-herb">
+                                        <strong>大棗</strong><small>十二枚（劈）</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                右五味，㕮咀，以水七升，微火煮取三升，去滓。適寒溫，服一升，服已須臾，啜熱稀
+                                粥一升餘，以助藥力。溫覆令一時許，遍身漐漐微似有汗者益佳，不可令如水流漓，病必不
+                                除。若一服汗出，病差，停後服，不必盡劑。若不汗，更服依前法。又不汗，後服小促其間，
+                                半日許，令三服盡。若病重者，一日一夜服，周時觀之。服一劑盡，病證猶在者，更作服。
+                                若汗不出，乃服至二三劑。禁生冷、粘滑、肉麵、五辛、酒酪、臭惡等物。
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
