@@ -36,10 +36,6 @@ define(['angular', 'angular_bootstrap'], function (ng) {
           controller: 'mainItemController',
           public: true
         })
-	      .when('/template', {
-		      redirectTo: '/components/angular-ui-bootstrap/template/',
-			    public: true
-	      })
     }
 
   ]);
