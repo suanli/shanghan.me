@@ -1,24 +1,26 @@
 <div class="sh-main">
     <div ng-controller="mainItemController">
-        <div class="page-header sh-chapter-title"><h1>{{items.title}}</h1></div>
-        <div class="row">
-            <div class="col-md-1 sh-index"><button type="button" class="btn btn-xs btn-default">6.13</button></div>
+        <div class="page-header sh-chapter-title"><h1>{{chapter.title}}</h1></div>
+        <div class="row" ng-repeat="singleItem in items">
+            <div class="col-md-1 sh-index"><button type="button" class="btn btn-xs btn-default">
+                {{chapter.index}}.{{singleItem.index}}</button>
+            </div>
             <div class="col-md-11 sh-item-content">
                 <div class="row ">
                     <div class="col-md-12 sh-item-text">
-                        {{items.text}}
+                        {{singleItem.text}}
                     </div>
                 </div>
                 <div class="row sh-item-recipe">
                     <div class="col-md-12">
                         <div class="row">
                             <div class="col-md-12 sh-item-recipe-title">
-                                <strong>{{items.recipe.title}}</strong>
+                                <strong>{{singleItem.recipe.title}}</strong>
                             </div>
                         </div>
                         <div class="row sh-item-recipe-text">
                             <div class="col-md-12">
-                                <div class="row" ng-repeat="rows in items.recipe.items | partition:3">
+                                <div class="row" ng-repeat="rows in singleItem.recipe.items | partition:3">
                                     <div class="col-md-4 sh-herb" ng-repeat="item in rows">
                                         <strong>{{item.herb}}</strong><small>{{item.weight}}（{{item.comment}}）</small>
                                     </div>
@@ -27,7 +29,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-12">
-                                {{items.recipe.comment}}
+                                {{singleItem.recipe.comment}}
                             </div>
                         </div>
                     </div>
