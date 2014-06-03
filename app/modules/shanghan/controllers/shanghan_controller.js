@@ -23,19 +23,41 @@ define(['angular', '../module'], function (ng) {
 		});
 
 	ng.module('shanghan.controllers')
+		.factory('httpGet',
+			function($http, $q)
+			{
+				var get = function(url) {
+					var deferred = $q.defer();
+					$http.get(url).success(function(data) {
+						deferred.resolve(data);
+					});
+					// TODO: Error case?
+					return deferred.promise;
+				};
+
+				return {
+					get: get
+				};
+
+			});
+
+	ng.module('shanghan.controllers')
 		.controller('mainItemController', [
 			'$scope',
-			'$http',
-			function ($scope, $http) {
+			'httpGet',
+			function ($scope, httpGet) {
+				//TODO: Refactor for better writing logic.
 				$scope.items = new Array();
-				$http.get('modules/shanghan/data/shlglb/ch06/title.json').success(function(data) {
+
+				$scope.chapter = httpGet.get('modules/shanghan/data/shlglb/ch06/title.json').then(function(data) {
 					$scope.chapter = data;
 				});
 
-				$http.get('modules/shanghan/data/shlglb/ch06/13.json').success(function(data) {
+				httpGet.get('modules/shanghan/data/shlglb/ch06/13.json').then(function(data) {
 					$scope.items.push(data);
 				});
-				$http.get('modules/shanghan/data/shlglb/ch06/12.json').success(function(data) {
+				
+				httpGet.get('modules/shanghan/data/shlglb/ch06/12.json').then(function(data) {
 					$scope.items.push(data);
 				});
 			}
