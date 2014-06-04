@@ -34,7 +34,6 @@ define(['angular', '../module'], function (ng) {
 					// TODO: Error case?
 					return deferred.promise;
 				};
-
 				return {
 					get: get
 				};
@@ -49,15 +48,34 @@ define(['angular', '../module'], function (ng) {
 				//TODO: Refactor for better writing logic.
 				$scope.items = new Array();
 
-				$scope.chapter = httpGet.get('modules/shanghan/data/shlglb/ch06/title.json').then(function(data) {
+				$scope.chapter = httpGet.get('modules/shanghan/data/shlglb/ch06/title.json')
+					.then(function(data) {
 					$scope.chapter = data;
 				});
 
-				httpGet.get('modules/shanghan/data/shlglb/ch06/13.json').then(function(data) {
-					$scope.items.push(data);
-				});
-				
-				httpGet.get('modules/shanghan/data/shlglb/ch06/12.json').then(function(data) {
+				var itemText = null;
+				httpGet.get('modules/shanghan/data/shlglb/ch06/13.json')
+					.then(function (data) {
+						itemText = data;
+						return httpGet.get('modules/shanghan/data/shlglb/recipe/' + itemText.recipe + '.json');
+					}).then(function (recipe) {
+						itemText.recipe = recipe;
+						return httpGet.get('modules/shanghan/data/shlglb/herb/herb.json');
+					}).then(function (herb) {
+						itemText.herb = herb;
+						return httpGet.get('modules/shanghan/data/shlglb/herb/weight.json');
+					}).then(function (weight) {
+						itemText.weight = weight;
+						for(var a = 0; a < itemText.recipe.items.length; a++)
+						{
+							itemText.recipe.items[a].herb = itemText.herb[itemText.recipe.items[a].herb].name;
+							itemText.recipe.items[a].weight = itemText.weight[itemText.recipe.items[a].weight].handai;
+						}
+						$scope.items.push(itemText);
+					});
+
+				httpGet.get('modules/shanghan/data/shlglb/ch06/12.json')
+					.then(function(data) {
 					$scope.items.push(data);
 				});
 			}

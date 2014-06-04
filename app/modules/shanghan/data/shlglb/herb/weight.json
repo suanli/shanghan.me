@@ -1,43 +1,24 @@
 {
-	"hl1": [
-		{
-			"weight": "一两"
-		},
-		{
-			"weight": "15g"
-		}
-	],
-	"hl15": [
-		{
-			"weight": "一两半"
-		},
-		{
-			"weight": "22.5g"
-		}
-	],
-	"hl2": [
-		{
-			"weight": "二两"
-		},
-		{
-			"weight": "30g"
-		}
-	],
-	"hl3": [
-		{
-			"weight": "三两"
-		},
-		{
-			"weight": "45g"
-		}
-	],
-	"hm12": [
-		{
-			"weight": "十二枚"
-		},
-		{
-			"weight": "12枚"
-		}
-	]
+	"hl1": {
+		"handai": "一两",
+		"xiandai": "15g"
+	},
+	"hl15": {
+		"handai": "一两半",
+		"xiandai": "22.5g"
+	},
+	"hl2": {
+		"handai": "二两",
+		"xiandai": "30g"
+	},
+	"hl3": {
+		"handai": "三两",
+		"xiandai": "45g"
+	},
+	"hm12": {
+		"handai": "十二枚",
+		"xiandai": "12枚"
+	}
+
 
 }
