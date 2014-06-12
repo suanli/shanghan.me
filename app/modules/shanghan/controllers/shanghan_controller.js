@@ -141,9 +141,9 @@ define(['angular', '../module'], function (ng) {
 					getItem: getItem,
 					getRecipe: getRecipe,
 					formatRecipe: formatRecipe,
-					items: items,
-					recipes: recipes,
-					chapter: chapter
+					getResult: function (){
+						return { chapter: chapter, items: items};
+					}
 				};
 			}
 		);
@@ -164,14 +164,13 @@ define(['angular', '../module'], function (ng) {
 					])
 					.then(function (){
 							$q.all([
-									dshQuery.getRecipe(dshQuery.items[13].recipe)
+									dshQuery.getRecipe(dshQuery.getResult().items[13].recipe)
 								])
 								.then(function (){
 									// Format recipe.
 									dshQuery.formatRecipe();
-									$scope.chapter = dshQuery.chapter;
-									$scope.items = dshQuery.items;
-									console.log(dshQuery);
+									$scope.chapter = dshQuery.getResult().chapter;
+									$scope.items = dshQuery.getResult().items;
 								})
 					});
 			}
