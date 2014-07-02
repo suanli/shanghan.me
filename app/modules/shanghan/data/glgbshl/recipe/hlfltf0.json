@@ -1,0 +1,31 @@
+{
+  "title": "黃連茯苓湯方",
+  "herbText": "黃連二兩茯苓三兩阿膠一兩半芍藥三兩黃芩三兩半夏一升",
+  "comment": "右六味，以水一斗，先煮五味，取三升，去滓，納膠烊消，分溫三服。若胸中熱甚者，加黃連一兩，合前成三兩；腹滿者，加厚朴二兩；人虛者，加甘草二兩；渴者，去半夏，加栝蔞根二兩。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "yisheng"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "小青龍湯方",
+  "herbText": "麻黃三兩甘草三兩（炙）桂枝三兩芍藥三兩五味子半升乾薑三兩半夏半升細辛三兩",
+  "comment": "右八味，以水一斗，先煮麻黃，減二升，去上沫，納諸藥，煮取三升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "wuweizi",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "xixin",
+      "weight": "sanliang"
+    }
+  ]
+}

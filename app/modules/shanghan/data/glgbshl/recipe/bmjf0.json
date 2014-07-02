@@ -1,0 +1,23 @@
+{
+  "title": "白蜜煎方",
+  "herbText": "人參一兩地黃六兩麻仁一升白蜜八合",
+  "comment": "右四味，以水一斗，先煎三味，取五升，去滓，納蜜，再煎一二沸，每服一升，日三夜二。",
+  "herbs": [
+    {
+      "herb": "rencan",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "maren",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "baimi",
+      "weight": "bahe"
+    }
+  ]
+}

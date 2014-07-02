@@ -1,0 +1,50 @@
+{
+  "title": "烏梅丸方",
+  "herbText": "烏梅三百枚細辛六兩乾薑十兩黃連十六兩當歸四兩附子六兩（炮去皮）蜀椒四兩（出汗）桂枝六兩（去皮）人參六兩黃柏六兩",
+  "comment": "右十味，異搗篩，合治之，以苦酒漬烏梅一宿，去核蒸之，五斗米下，飯熟，搗成泥，和藥令相得，納臼中與蜜杵二千下，丸如梧桐子大，先食飲服十丸，日三服，稍加至二十丸，禁生冷滑物臭食等。",
+  "herbs": [
+    {
+      "herb": "wumei",
+      "weight": "sanbaimei"
+    },
+    {
+      "herb": "xixin",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "shiliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "shiliuliang"
+    },
+    {
+      "herb": "danggui",
+      "weight": "siliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "liuliang",
+      "comment": "（炮去皮）"
+    },
+    {
+      "herb": "shujiao",
+      "weight": "siliang",
+      "comment": "（出汗）"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "liuliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "rencan",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "huangbai",
+      "weight": "liuliang"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "白虎加地黃湯方",
+  "herbText": "知母六兩石膏一斤（碎）甘草二兩（炙）粳米六合地黃六兩",
+  "comment": "右五味，以水一斗，煮米熟湯成，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "zhimu",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "yijin",
+      "comment": "（碎）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "jingmi",
+      "weight": "liuhe"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "liuliang"
+    }
+  ]
+}

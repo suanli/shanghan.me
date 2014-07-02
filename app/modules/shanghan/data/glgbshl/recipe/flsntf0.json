@@ -1,0 +1,35 @@
+{
+  "title": "茯苓四逆湯方",
+  "herbText": "茯苓四兩人參二兩附子一枚（生用，去皮，破八片）甘草二兩（炙）乾薑一兩半",
+  "comment": "右五味，以水五升，煮取三升，去滓。溫服七合，日三服。",
+  "comment_comment": [
+    {
+      "position": 13,
+      "comment": "「三升」：廣西本均為三升。三服七合為二升一合，約二升。白本印為「三升」，勘誤為「二升」，會通本為「二升」。似應以二升為正。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（生用，去皮，破八片）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliangban"
+    }
+  ]
+}

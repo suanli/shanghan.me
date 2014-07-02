@@ -1,0 +1,11 @@
+{
+  "title": "苦參湯方",
+  "herbText": "苦參一斤",
+  "comment": "右一味，以水一斗，煮取七升，去滓，薰洗，日三次。",
+  "herbs": [
+    {
+      "herb": "kucan",
+      "weight": "yijin"
+    }
+  ]
+}

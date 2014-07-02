@@ -1,0 +1,35 @@
+{
+  "title": "豬苓加黃連牡丹湯方",
+  "herbText": "豬苓一兩茯苓一兩阿膠一兩澤瀉一兩滑石一兩黃連一兩牡丹一兩",
+  "comment": "右七味，以水四升，先煮六味，取二升，去滓，納膠烊消，分溫再服。",
+  "herbs": [
+    {
+      "herb": "zhuling",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huashi",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "mudan",
+      "weight": "yiliang"
+    }
+  ]
+}

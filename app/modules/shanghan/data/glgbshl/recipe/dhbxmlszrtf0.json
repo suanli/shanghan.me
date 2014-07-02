@@ -1,0 +1,29 @@
+{
+  "title": "地黃半夏牡蠣酸棗仁湯方",
+  "herbText": "地黃六兩半夏半升牡蠣二兩酸棗仁三兩",
+  "comment": "右四味，以水四升，煮取二升，分溫再服。",
+  "comment_comment": [
+    {
+      "position": 13,
+      "comment": "白雲閣本與會通本此處有「去滓」二字。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "dihuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "muli",
+      "weight": "erliang"
+    },
+    {
+      "herb": "suanzaoren",
+      "weight": "sanliang"
+    }
+  ]
+}

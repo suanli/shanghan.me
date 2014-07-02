@@ -1,0 +1,33 @@
+{
+  "title": "烏頭赤石脂丸方",
+  "herbText": "烏頭一兩蜀椒一兩附子五錢乾薑一兩赤石脂一兩",
+  "comment": "右五味，末之，蜜為丸，如梧桐子大，先食，服一丸，日三服。不知稍增，以知為度。",
+  "herbs_comment": [
+    {
+      "position": 12,
+      "comment": "「五錢」：白雲閣本與會通本作「半兩」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "wutou",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "shujiao",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "wuqian"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "chishizhi",
+      "weight": "yiliang"
+    }
+  ]
+}

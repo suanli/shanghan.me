@@ -1,0 +1,32 @@
+{
+  "title": "麥門冬湯方",
+  "herbText": "麥門冬七升半夏一升人參二兩甘草二兩（炙）粳米三合大棗十二枚",
+  "comment": "右六味，以水一斗二升，煮取六升，去滓，溫服一升，日三服，夜三服。",
+  "herbs": [
+    {
+      "herb": "maimendong",
+      "weight": "qisheng"
+    },
+    {
+      "herb": "banxia",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "jingmi",
+      "weight": "sanhe"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei"
+    }
+  ]
+}

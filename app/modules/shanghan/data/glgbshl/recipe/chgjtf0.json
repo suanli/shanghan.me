@@ -1,0 +1,37 @@
+{
+  "title": "柴胡桂薑湯方",
+  "herbText": "柴胡半斤桂枝三兩乾薑二兩栝蔞根四兩黃芩三兩甘草二兩（炙）牡蠣二兩（熬）",
+  "comment": "右七味，以水一斗，煮取六升，去滓，再煎取三升。溫服一升，日三服。初服微煩，再服汗出便愈。",
+  "herbs": [
+    {
+      "herb": "chaihu",
+      "weight": "banjin"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gualougen",
+      "weight": "siliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "muli",
+      "weight": "erliang",
+      "comment": "（熬）"
+    }
+  ]
+}

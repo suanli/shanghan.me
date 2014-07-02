@@ -1,0 +1,34 @@
+{
+  "title": "桂枝去桂加黃芩牡丹湯方",
+  "herbText": "芍藥三兩甘草二兩（炙）生薑三兩（切）大棗十二枚（劈）黃芩三兩牡丹皮三兩",
+  "comment": "右六味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "sanliang"
+    }
+  ]
+}

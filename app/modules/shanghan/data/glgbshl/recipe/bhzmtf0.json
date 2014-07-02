@@ -1,0 +1,25 @@
+{
+  "title": "百合知母湯方",
+  "herbText": "百合七枚知母三兩",
+  "comment": "右二味，先以水洗百合，漬一宿，當白沫出，去其水，另以泉水二升，煮取一升，去滓；別以泉水二升煮知母，取一升，去滓；後合煎，取一升五合，分溫再服。",
+  "herbs_comment": [
+    {
+      "position": 4,
+      "comment": "白雲閣本與會通本此處有「（擘）」。"
+    },
+    {
+      "position": 8,
+      "comment": "白雲閣本與會通本此處有「（切）」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "baihe",
+      "weight": "qimei"
+    },
+    {
+      "herb": "zhimu",
+      "weight": "sanliang"
+    }
+  ]
+}

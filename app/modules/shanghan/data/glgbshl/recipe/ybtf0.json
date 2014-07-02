@@ -1,0 +1,33 @@
+{
+  "title": "越婢湯方",
+  "herbText": "麻黃六兩石膏半斤甘草二兩生薑三兩大棗十二枚",
+  "comment": "右五味，以水六升，先煮麻黃，去上沫，納諸藥，煮取三升，去滓，分溫三服。",
+  "herbs_comment": [
+    {
+      "position": 21,
+      "comment": "白雲閣本與會通本作「十五枚」，而越婢加朮湯中亦作「十五枚」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "banjin"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei"
+    }
+  ]
+}

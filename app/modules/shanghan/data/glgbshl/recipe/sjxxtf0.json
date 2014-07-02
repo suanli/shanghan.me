@@ -1,0 +1,41 @@
+{
+  "title": "生薑瀉心湯方",
+  "herbText": "生薑四兩甘草三兩（炙）人參三兩乾薑一兩黃芩三兩半夏半升黃連一兩大棗十二枚（劈）",
+  "comment": "右八味，以水一斗，煮取六升，去滓，再煎取三升，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "shengjiang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

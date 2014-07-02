@@ -1,0 +1,19 @@
+{
+  "title": "當歸生薑羊肉湯方",
+  "herbText": "當歸三兩生薑五兩羊肉一斤",
+  "comment": "右三味，以水八升，煮取三升。溫服七合，日三服。寒多者，加生薑成一斤；痛多而嘔者，加橘皮二兩，白朮一兩。加生薑者，亦加水五升，煮取三升二合，分溫三服。",
+  "herbs": [
+    {
+      "herb": "danggui",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "yangrou",
+      "weight": "yijin"
+    }
+  ]
+}

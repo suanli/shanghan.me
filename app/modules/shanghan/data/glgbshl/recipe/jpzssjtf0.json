@@ -1,0 +1,19 @@
+{
+  "title": "橘皮枳實生薑湯方",
+  "herbText": "橘皮一斤枳實三兩生薑半斤",
+  "comment": "右三味，以水五升，煮取二升，去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "jupi",
+      "weight": "yijin"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "banjin"
+    }
+  ]
+}

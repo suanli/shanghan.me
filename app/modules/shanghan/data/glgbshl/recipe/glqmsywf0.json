@@ -1,0 +1,28 @@
+{
+  "title": "栝蔞瞿麥薯蕷丸方",
+  "herbText": "栝蔞根二兩瞿麥一兩薯蕷二兩附子一枚（炮）茯苓三兩",
+  "comment": "右五味，末之，煉蜜為丸，如梧桐子大，飲服二丸，日三服，不知可增至七八丸，以小便利，腹中溫為知。",
+  "herbs": [
+    {
+      "herb": "gualougen",
+      "weight": "erliang"
+    },
+    {
+      "herb": "qumai",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "shuyu",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮）"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    }
+  ]
+}

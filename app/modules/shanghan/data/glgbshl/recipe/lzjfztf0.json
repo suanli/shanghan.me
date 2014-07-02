@@ -1,0 +1,27 @@
+{
+  "title": "理中加附子湯方",
+  "herbText": "人參三兩白朮三兩甘草三兩乾薑三兩附子一枚",
+  "comment": "右五味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei"
+    }
+  ]
+}

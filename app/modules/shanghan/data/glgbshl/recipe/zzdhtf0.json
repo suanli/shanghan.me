@@ -1,0 +1,23 @@
+{
+  "title": "梔子大黃湯方",
+  "herbText": "梔子十四枚大黃一兩枳實五枚豉一升",
+  "comment": "右四味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "zhizi",
+      "weight": "shisimei"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "wumei"
+    },
+    {
+      "herb": "chi",
+      "weight": "yisheng"
+    }
+  ]
+}

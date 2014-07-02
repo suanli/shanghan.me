@@ -1,0 +1,27 @@
+{
+  "title": "麻黃杏仁甘草石膏湯方",
+  "herbText": "麻黃四兩（去節）杏仁五十個（去皮尖）甘草二兩（炙）石膏半斤（碎、棉裹）",
+  "comment": "右四味，以水七升，先煮麻黃減二升，去上沫，納諸藥，煮取二升，去滓，溫服一升。日再服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "siliang",
+      "comment": "（去節）"
+    },
+    {
+      "herb": "xingren",
+      "weight": "wushige",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shigao",
+      "weight": "banjin",
+      "comment": "（碎、棉裹）"
+    }
+  ]
+}

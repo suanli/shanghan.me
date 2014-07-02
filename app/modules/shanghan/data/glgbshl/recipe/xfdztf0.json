@@ -1,0 +1,38 @@
+{
+  "title": "旋覆代赭湯方",
+  "herbText": "旋覆花三兩人參二兩生薑五兩代赭石一兩甘草三兩（炙）半夏半升（洗）大棗十二枚（劈）",
+  "comment": "右七味，以水一斗，煮取六升，去滓，再煎取三升，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "xuanfuhua",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "daizheshi",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

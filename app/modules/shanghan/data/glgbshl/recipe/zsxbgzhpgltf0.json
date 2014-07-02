@@ -1,0 +1,28 @@
+{
+  "title": "枳實薤白桂枝厚朴栝蔞湯方",
+  "herbText": "枳實四枚薤白半斤桂枝一兩厚朴四兩栝蔞一枚（搗）",
+  "comment": "右五味，以水五升，先煮枳實、厚朴取二升，去滓，納諸藥，煮數沸，分溫三服。",
+  "herbs": [
+    {
+      "herb": "zhishi",
+      "weight": "simei"
+    },
+    {
+      "herb": "xiebai",
+      "weight": "banjin"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "houpo",
+      "weight": "siliang"
+    },
+    {
+      "herb": "gualou",
+      "weight": "yimei",
+      "comment": "（搗）"
+    }
+  ]
+}

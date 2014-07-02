@@ -1,0 +1,34 @@
+{
+  "title": "黃芩加半夏生薑湯方",
+  "herbText": "黃芩三兩芍藥二兩甘草二兩（炙）半夏半升（洗）生薑一兩半大棗十二枚（劈）",
+  "comment": "右六味，以水一斗，煮取三升，去滓，溫服一升，日再服，夜一服。",
+  "herbs": [
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

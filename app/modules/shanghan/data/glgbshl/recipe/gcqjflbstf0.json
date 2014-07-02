@@ -1,0 +1,24 @@
+{
+  "title": "甘草乾薑茯苓白朮湯方",
+  "herbText": "甘草二兩（炙）白朮二兩乾薑四兩茯苓四兩",
+  "comment": "右四味，以水五升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "baishu",
+      "weight": "erliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    }
+  ]
+}

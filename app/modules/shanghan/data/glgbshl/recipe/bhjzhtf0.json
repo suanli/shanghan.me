@@ -1,0 +1,21 @@
+{
+  "title": "百合雞子黃湯方",
+  "herbText": "百合七枚雞子黃一枚",
+  "comment": "右二味，先洗煮百合如前法，去滓，納雞子黃，攪勻，頓服之。",
+  "herbs_comment": [
+    {
+      "position": 4,
+      "comment": "白雲閣本與會通本此處有「（擘）」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "baihe",
+      "weight": "qimei"
+    },
+    {
+      "herb": "jizihuang",
+      "weight": "yimei"
+    }
+  ]
+}

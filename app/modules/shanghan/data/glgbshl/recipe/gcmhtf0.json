@@ -1,0 +1,15 @@
+{
+  "title": "甘草麻黃湯方",
+  "herbText": "甘草二兩麻黃四兩",
+  "comment": "右二味，以水五升，先煮麻黃，去上沫，納甘草，煮取三升，去滓，溫服一升，覆令汗出，不汗再服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "mahuang",
+      "weight": "siliang"
+    }
+  ]
+}

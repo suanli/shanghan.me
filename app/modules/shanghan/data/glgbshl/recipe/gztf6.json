@@ -1,0 +1,31 @@
+{
+  "title": "桂枝湯方",
+  "herbText": "桂枝三兩（去皮）芍藥三兩甘草二兩（炙）生薑三兩（切）大棗十二枚（劈）",
+  "comment": "右五味，以水七升，煮取三升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

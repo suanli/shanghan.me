@@ -1,0 +1,23 @@
+{
+  "title": "升麻鱉甲去雄黃蜀椒湯方",
+  "herbText": "升麻二兩當歸一兩甘草二兩鱉甲一片",
+  "comment": "右四味，以水二升，煮取一升，去滓，頓服之。不差再服。",
+  "herbs": [
+    {
+      "herb": "shengma",
+      "weight": "erliang"
+    },
+    {
+      "herb": "danggui",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "biejia",
+      "weight": "yipian"
+    }
+  ]
+}

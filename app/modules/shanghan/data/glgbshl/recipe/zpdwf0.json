@@ -1,0 +1,27 @@
+{
+  "title": "竹皮大丸方",
+  "herbText": "竹茹二分石膏二分桂枝一分甘草七分白薇一分",
+  "comment": "右五味，末之，棗肉和丸，如彈子大，飲服一丸，日三服，夜二服，有熱者倍白薇。",
+  "herbs": [
+    {
+      "herb": "zhuru",
+      "weight": "erfen"
+    },
+    {
+      "herb": "shigao",
+      "weight": "erfen"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "yifen"
+    },
+    {
+      "herb": "gancao",
+      "weight": "qifen"
+    },
+    {
+      "herb": "baiwei",
+      "weight": "yifen"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "甘草湯方",
+  "herbText": "甘草二兩",
+  "comment": "右一味，以水三升，煮取一升半，去滓。溫服七合，日二服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    }
+  ]
+}

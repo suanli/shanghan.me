@@ -1,0 +1,47 @@
+{
+  "title": "當歸四逆加人參附子湯方",
+  "herbText": "當歸三兩桂枝三兩（去皮）芍藥三兩細辛三兩甘草二兩（炙）木通二兩大棗二十五枚（劈）人參三兩附子一枚（炮去皮，破八片）",
+  "comment": "右九味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "danggui",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "xixin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "mutong",
+      "weight": "erliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "ershiwumei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮去皮，破八片）"
+    }
+  ]
+}

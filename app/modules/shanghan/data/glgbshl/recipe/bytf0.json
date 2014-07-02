@@ -1,0 +1,25 @@
+{
+  "title": "柏葉湯方",
+  "herbText": "柏葉三兩乾薑三兩艾葉三把",
+  "comment": "右三味，以水五升，取馬通汁一升，合煮，取一升，分溫再服。",
+  "comment_comment": [
+    {
+      "position": 22,
+      "comment": "各版本中僅廣西80本有「去滓」二字，他本皆無。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "baiye",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "aiye",
+      "weight": "sanba"
+    }
+  ]
+}

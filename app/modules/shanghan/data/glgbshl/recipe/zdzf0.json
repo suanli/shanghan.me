@@ -1,0 +1,11 @@
+{
+  "title": "豬膽汁方",
+  "herbText": "大豬膽一枚",
+  "comment": "右一味，泄汁，和醋少許，灌穀道中。如一食頃，當大便，出宿食甚多。",
+  "herbs": [
+    {
+      "herb": "dazhudan",
+      "weight": "yimei"
+    }
+  ]
+}

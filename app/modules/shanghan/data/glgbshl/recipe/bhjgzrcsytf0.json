@@ -1,0 +1,37 @@
+{
+  "title": "白虎加桂枝人參芍藥湯方",
+  "herbText": "知母六兩石膏一斤碎（棉裹）甘草二兩（炙）粳米六合桂枝一兩人參三兩芍藥二兩",
+  "comment": "右七味，以水八升，煮米熟湯成，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "zhimu",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "yijin",
+      "comment": "碎（棉裹）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "jingmi",
+      "weight": "liuhe"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "erliang"
+    }
+  ]
+}

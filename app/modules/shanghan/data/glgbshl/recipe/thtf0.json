@@ -1,0 +1,20 @@
+{
+  "title": "桃花湯方",
+  "herbText": "赤石脂一斤（一半全用，一半篩末）乾薑一兩粳米一升",
+  "comment": "右三味，以水七升，煮米令熟，去滓，溫服七合，納赤石脂末方寸匙，日三服。若一服愈，餘勿服。",
+  "herbs": [
+    {
+      "herb": "chishizhi",
+      "weight": "yijin",
+      "comment": "（一半全用，一半篩末）"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "jingmi",
+      "weight": "yisheng"
+    }
+  ]
+}

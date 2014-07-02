@@ -1,0 +1,15 @@
+{
+  "title": "葵子茯苓散方",
+  "herbText": "葵子一斤茯苓三兩",
+  "comment": "右二味，杵為散，飲服方寸匙，日三服，小便利則愈。",
+  "herbs": [
+    {
+      "herb": "kuizi",
+      "weight": "yijin"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "百合地黃牡丹皮半夏茯苓湯方",
+  "herbText": "百合七枚（劈）地黃汁一升牡丹皮六兩半夏一升茯苓四兩",
+  "comment": "右五味，先以水洗百合，漬一宿，當白沫出，去其水，別以水二升，煮取一升，去滓；別以泉水四升，煮三味，取二升，去滓；納地黃汁，與百合汁，更上火令沸，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "baihe",
+      "weight": "qimei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "dihuangzhi",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "人參地黃龍骨牡蠣茯苓湯方",
+  "herbText": "人參三兩地黃半斤龍骨三兩牡蠣四兩茯苓四兩",
+  "comment": "右五味，以水一斗，煮取三升，分溫三服。",
+  "herbs": [
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "banjin"
+    },
+    {
+      "herb": "longgu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "muli",
+      "weight": "siliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "地黃黃柏秦皮茯苓澤瀉湯方",
+  "herbText": "地黃六兩黃柏三兩秦皮二兩茯苓三兩澤瀉一兩",
+  "comment": "右五味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "dihuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "huangbai",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qinpi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "yiliang"
+    }
+  ]
+}

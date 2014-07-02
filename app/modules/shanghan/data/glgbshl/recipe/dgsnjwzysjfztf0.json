@@ -1,0 +1,51 @@
+{
+  "title": "當歸四逆加吳茱萸生薑附子湯方",
+  "herbText": "吳茱萸二升生薑半斤附子一枚（炮去皮，破八片）當歸三兩桂枝三兩（去皮）芍藥三兩細辛三兩甘草二兩（炙）木通二兩大棗二十五枚（劈）",
+  "comment": "右十味，以水六升，清酒六升，和煮取三升，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "wuzhuyu",
+      "weight": "ersheng"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "banjin"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮去皮，破八片）"
+    },
+    {
+      "herb": "danggui",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "xixin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "mutong",
+      "weight": "erliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "ershiwumei",
+      "comment": "（劈）"
+    }
+  ]
+}

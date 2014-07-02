@@ -1,0 +1,29 @@
+{
+  "title": "白朮枳實乾薑白蜜湯方",
+  "herbText": "白朮三兩枳實一兩半乾薑一兩白蜜二兩",
+  "comment": "右四味，以水六升，先煮三味，去滓，取三升，納白蜜烊消，溫服一升，日三服。",
+  "comment_comment": [
+    {
+      "position": 20,
+      "comment": "「去滓，取三升」：白雲閣本勘誤表改作「取三升去滓」，會通本亦同。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "baimi",
+      "weight": "erliang"
+    }
+  ]
+}

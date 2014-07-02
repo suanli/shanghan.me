@@ -1,0 +1,12 @@
+{
+  "title": "訶黎勒散方",
+  "herbText": "訶黎勒十枚（煨）",
+  "comment": "右一味，為散，粥飲和，頓服之。",
+  "herbs": [
+    {
+      "herb": "helile",
+      "weight": "shimei",
+      "comment": "（煨）"
+    }
+  ]
+}

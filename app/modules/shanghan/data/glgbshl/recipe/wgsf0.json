@@ -1,0 +1,37 @@
+{
+  "title": "文蛤散方",
+  "herbText": "文蛤五兩麻黃三兩甘草三兩生薑三兩石膏五兩杏仁五十粒（去皮尖）大棗十二枚（劈）",
+  "comment": "右七味，為散，以沸湯和一方寸匙，湯用五合，調服。假令汗出已，腹中痛者，與芍藥三兩。",
+  "herbs": [
+    {
+      "herb": "wenge",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "mahuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "xingren",
+      "weight": "wushili",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

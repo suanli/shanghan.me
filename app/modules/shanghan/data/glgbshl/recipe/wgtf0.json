@@ -1,0 +1,35 @@
+{
+  "title": "文蛤湯方",
+  "herbText": "文蛤五兩麻黃三兩甘草三兩生薑三兩石膏五兩杏仁五十枚大棗十二枚",
+  "comment": "右七味，以水六升，煮取二升，去滓，溫服一升，汗出即愈。若不汗，再服。",
+  "herbs": [
+    {
+      "herb": "wenge",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "mahuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "xingren",
+      "weight": "wushimei"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "麻黃連軺赤小豆湯方",
+  "herbText": "麻黃二兩連軺二兩杏仁四十個（去皮尖）赤小豆一升大棗十二枚生梓白皮一斤（切）生薑二兩（切）甘草二兩（炙）",
+  "comment": "右八味，以潦水一斗，先煮麻黃再沸，去上沫，納諸藥，煮取三升，去滓，分溫三服，半日服盡。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "lianyao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "xingren",
+      "weight": "sishige",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "chixiaodou",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei"
+    },
+    {
+      "herb": "shengzibaipi",
+      "weight": "yijin",
+      "comment": "（切）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "erliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

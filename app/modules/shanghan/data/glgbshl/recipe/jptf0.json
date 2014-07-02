@@ -1,0 +1,15 @@
+{
+  "title": "橘皮湯方",
+  "herbText": "橘皮四兩生薑半斤",
+  "comment": "右二味，以水七升，煮取三升，去滓，溫服一升，下咽即愈。",
+  "herbs": [
+    {
+      "herb": "jupi",
+      "weight": "siliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "banjin"
+    }
+  ]
+}

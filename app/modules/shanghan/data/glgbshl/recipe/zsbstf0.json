@@ -1,0 +1,15 @@
+{
+  "title": "枳實白朮湯方",
+  "herbText": "枳實七枚白朮二兩",
+  "comment": "右二味，以水五升，煮取三升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "zhishi",
+      "weight": "qimei"
+    },
+    {
+      "herb": "baishu",
+      "weight": "erliang"
+    }
+  ]
+}

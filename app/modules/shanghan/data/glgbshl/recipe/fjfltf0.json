@@ -1,0 +1,28 @@
+{
+  "title": "防己茯苓湯方",
+  "herbText": "防己三兩黃耆三兩桂枝三兩茯苓六兩甘草二兩（炙）",
+  "comment": "右五味，以水六升，煮取三升，分溫三服。",
+  "herbs": [
+    {
+      "herb": "fangji",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangqi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

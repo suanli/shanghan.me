@@ -1,0 +1,27 @@
+{
+  "title": "酸棗仁湯方",
+  "herbText": "酸棗仁二升甘草一兩知母二兩茯苓二兩芎藭一兩",
+  "comment": "右五味，以水八升，煮酸棗仁得六升，納諸藥，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "suanzaoren",
+      "weight": "ersheng"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "zhimu",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "erliang"
+    },
+    {
+      "herb": "xiongqiong",
+      "weight": "yiliang"
+    }
+  ]
+}

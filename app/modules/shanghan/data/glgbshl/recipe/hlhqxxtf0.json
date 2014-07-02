@@ -1,0 +1,15 @@
+{
+  "title": "黃連黃芩瀉心湯方",
+  "herbText": "黃連三兩黃芩二兩",
+  "comment": "右二味，以水二升，煮取一升，分溫再服。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "erliang"
+    }
+  ]
+}

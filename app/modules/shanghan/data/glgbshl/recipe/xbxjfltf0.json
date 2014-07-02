@@ -1,0 +1,19 @@
+{
+  "title": "小半夏加茯苓湯方",
+  "herbText": "半夏一升生薑半斤茯苓四兩",
+  "comment": "右三味，以水七升，煮取二升，去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "banxia",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "banjin"
+    },
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    }
+  ]
+}

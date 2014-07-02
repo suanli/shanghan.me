@@ -1,0 +1,25 @@
+{
+  "title": "大黃甘遂阿膠湯方",
+  "herbText": "大黃四兩甘遂二兩阿膠二兩",
+  "comment": "右三味，以水三升，煮二味，取一升，去滓，納膠烊消，溫頓服之。",
+  "herbs_comment": [
+    {
+      "position": 12,
+      "comment": "白雲閣本作「三兩」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "gansui",
+      "weight": "erliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "erliang"
+    }
+  ]
+}

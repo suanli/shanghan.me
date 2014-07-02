@@ -1,0 +1,31 @@
+{
+  "title": "柴胡枳實芍藥甘草湯方",
+  "herbText": "柴胡半斤芍藥三兩枳實四枚（炙）甘草三兩（炙）",
+  "comment": "右四味，以水一斗，煮取六升，去滓，再煎取三升，溫服一升，日三服。",
+  "herbs_comment": [
+    {
+      "position": 4,
+      "comment": "一斤=十六兩，故此處半斤即八兩。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "chaihu",
+      "weight": "banjin"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "simei",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    }
+  ]
+}

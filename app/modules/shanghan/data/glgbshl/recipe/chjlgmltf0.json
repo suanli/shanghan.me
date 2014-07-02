@@ -1,0 +1,56 @@
+{
+  "title": "柴胡加龍骨牡蠣湯方",
+  "herbText": "柴胡四兩龍骨一兩半黃芩一兩半生薑一兩半人參一兩半桂枝一兩半茯苓一兩半半夏二合半大黃二兩牡蠣一兩半大棗六枚（劈）鉛丹一兩半",
+  "comment": "右十二味，以水八升，煮取四升，納大黃，切如棋子，更煮一二沸，去滓，溫服一升。日三服，夜一服。",
+  "herbs": [
+    {
+      "herb": "chaihu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "longgu",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "rencan",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "fuling",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "banxia",
+      "weight": "erheban"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "muli",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "dazao",
+      "weight": "liumei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "qiandan",
+      "weight": "yiliangban"
+    }
+  ]
+}

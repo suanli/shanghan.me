@@ -1,0 +1,37 @@
+{
+  "title": "厚朴甘草生薑半夏人參湯方",
+  "herbText": "厚朴半斤（炙去皮）生薑半斤（切）半夏半升（洗）甘草二兩（炙）人參一兩",
+  "comment": "右五味，以水一斗，煮取三升，去滓。溫服一升，日三服。",
+  "herbs_comment": [
+    {
+      "position": 20,
+      "comment": "「升」：白雲閣本與會通本作「斤」，應誤。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "houpo",
+      "weight": "banjin",
+      "comment": "（炙去皮）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "banjin",
+      "comment": "（切）"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "rencan",
+      "weight": "yiliang"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "小建中湯方",
+  "herbText": "桂枝三兩芍藥六兩甘草三兩（炙）生薑三兩大棗十二枚飴糖一升",
+  "comment": "右六味，以水七升，煮取三升，去滓，納膠飴，更上微火消解，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei"
+    },
+    {
+      "herb": "yitang",
+      "weight": "yisheng"
+    }
+  ]
+}

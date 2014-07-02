@@ -1,0 +1,30 @@
+{
+  "title": "柏葉阿膠湯方",
+  "herbText": "柏葉三兩阿膠二兩乾薑二兩（炮）牡丹三兩",
+  "comment": "右四味，以水三升，先煮三味，取二升，去滓，納膠烊消。溫服一升，日再服。",
+  "herbs_comment": [
+    {
+      "position": 17,
+      "comment": "「牡丹」：白雲閣本與會通本作「牡丹皮」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "baiye",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "erliang",
+      "comment": "（炮）"
+    },
+    {
+      "herb": "mudan",
+      "weight": "sanliang"
+    }
+  ]
+}

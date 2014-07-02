@@ -1,0 +1,25 @@
+{
+  "title": "黃耆芍藥桂枝湯方",
+  "herbText": "黃耆五兩芍藥三兩桂枝三兩",
+  "comment": "右三味，以苦酒一升，水七升，相合，煮取三升，去滓，溫服一升，當心煩，服至六七日乃解；若心煩不止者，以苦酒阻故也，以美酒醢易之。日乃解；若心煩不止者，以苦酒阻故也，以美酒醢易之。",
+  "comment_comment": [
+    {
+      "position": 60,
+      "comment": "「醢」：白雲閣本與會通本作「醯」。醯者，醋也。從文意看，似應以此為正。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "huangqi",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "梔子甘草豉湯方",
+  "herbText": "梔子十四枚（劈）甘草二兩（炙）香豉四合（棉裹）",
+  "comment": "右三味，以水四升，先煮梔子、甘草取二升半，納豉煮取一升半，去滓，分二服。溫進一服，得吐者，止後服。",
+  "herbs": [
+    {
+      "herb": "zhizi",
+      "weight": "shisimei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "xiangchi",
+      "weight": "sihe",
+      "comment": "（棉裹）"
+    }
+  ]
+}

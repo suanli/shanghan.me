@@ -1,0 +1,45 @@
+{
+  "title": "柴胡桂枝湯方",
+  "herbText": "桂枝一兩半黃芩一兩半人參一兩半甘草一兩（炙）半夏二合半芍藥一兩半大棗六枚生薑一兩半（切）柴胡四兩",
+  "comment": "右九味，以水七升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "rencan",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "banxia",
+      "weight": "erheban"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "dazao",
+      "weight": "liumei"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "yiliangban",
+      "comment": "（切）"
+    },
+    {
+      "herb": "chaihu",
+      "weight": "siliang"
+    }
+  ]
+}

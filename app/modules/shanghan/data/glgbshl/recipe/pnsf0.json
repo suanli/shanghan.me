@@ -1,0 +1,19 @@
+{
+  "title": "排膿散方",
+  "herbText": "枳實十六枚芍藥六分桔梗二分",
+  "comment": "右三味，杵為散，取雞子黃一枚，以藥散與雞黃相等，揉和令相得，飲和服之，日一服。",
+  "herbs": [
+    {
+      "herb": "zhishi",
+      "weight": "shiliumei"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "liufen"
+    },
+    {
+      "herb": "jiegeng",
+      "weight": "erfen"
+    }
+  ]
+}

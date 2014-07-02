@@ -1,0 +1,11 @@
+{
+  "title": "蛇床子散方",
+  "herbText": "蛇床子一兩",
+  "comment": "右一味，末之，以白粉少許，和合相得，如棗大，棉裹納陰中，自溫。",
+  "herbs": [
+    {
+      "herb": "shechuangzi",
+      "weight": "yiliang"
+    }
+  ]
+}

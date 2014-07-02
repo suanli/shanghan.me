@@ -1,0 +1,44 @@
+{
+  "title": "升麻鱉甲湯方",
+  "herbText": "升麻二兩蜀椒一兩（去汁）雄黃五錢（研）當歸一兩甘草二兩鱉甲一片（炙）",
+  "comment": "右六味，以水四升，煮取一升，頓服之，不差再服，取汗。",
+  "herbs_comment": [
+    {
+      "position": 11,
+      "comment": "「去汁」：白雲閣本與會通本作「去汗」，似為正。"
+    },
+    {
+      "position": 16,
+      "comment": "「五錢」：白雲閣本與會通本作「半兩」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "shengma",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shujiao",
+      "weight": "yiliang",
+      "comment": "（去汁）"
+    },
+    {
+      "herb": "xionghuang",
+      "weight": "wuqian",
+      "comment": "（研）"
+    },
+    {
+      "herb": "danggui",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "biejia",
+      "weight": "yipian",
+      "comment": "（炙）"
+    }
+  ]
+}

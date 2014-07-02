@@ -1,0 +1,31 @@
+{
+  "title": "越婢加半夏湯方",
+  "herbText": "麻黃六兩石膏半斤甘草二兩生薑三兩大棗十五枚半夏半升",
+  "comment": "右六味，以水六升，先煮麻黃，去上沫，納諸藥，煮取三升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "banjin"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiwumei"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    }
+  ]
+}

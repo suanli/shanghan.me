@@ -1,0 +1,22 @@
+{
+  "title": "薏苡附子散方",
+  "herbText": "薏苡十五兩大附子十枚（炮）",
+  "comment": "右二味，杵為散，白飲服方寸匙，日三服。",
+  "herbs_comment": [
+    {
+      "position": 2,
+      "comment": "白本米伯讓複刻版書末勘誤表謂「薏苡」後有「仁」字。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "yiyi",
+      "weight": "shiwuliang"
+    },
+    {
+      "herb": "dafuzi",
+      "weight": "shimei",
+      "comment": "（炮）"
+    }
+  ]
+}

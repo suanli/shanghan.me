@@ -1,0 +1,31 @@
+{
+  "title": "厚朴麻黃湯方",
+  "herbText": "厚朴五兩麻黃四兩石膏如雞子大杏仁半升半夏半升五味子半升",
+  "comment": "右六味，以水一斗，先煮麻黃，去沫，納諸藥，煮取三升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "houpo",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "mahuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "rujizida"
+    },
+    {
+      "herb": "xingren",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "wuweizi",
+      "weight": "bansheng"
+    }
+  ]
+}

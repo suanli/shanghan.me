@@ -1,0 +1,15 @@
+{
+  "title": "厚朴大黃湯方",
+  "herbText": "厚朴八兩大黃四兩",
+  "comment": "右二味，以水五升，煮取二升，去滓，溫服一升，不差再服。",
+  "herbs": [
+    {
+      "herb": "houpo",
+      "weight": "baliang"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "siliang"
+    }
+  ]
+}

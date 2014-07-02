@@ -1,0 +1,23 @@
+{
+  "title": "排膿湯方",
+  "herbText": "甘草二兩桔梗三兩生薑一兩大棗十枚",
+  "comment": "右四味，以水三升，煮取一升，去滓，溫服五合，日再服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "jiegeng",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shimei"
+    }
+  ]
+}

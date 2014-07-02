@@ -1,0 +1,20 @@
+{
+  "title": "麻黃附子細辛湯方",
+  "herbText": "麻黃二兩附子一枚（炮去皮，破八片）細辛二兩",
+  "comment": "右三味，以水一斗，先煮麻黃，減二升，去上沫，納諸藥，煮取三升，去滓。溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮去皮，破八片）"
+    },
+    {
+      "herb": "xixin",
+      "weight": "erliang"
+    }
+  ]
+}

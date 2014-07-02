@@ -1,0 +1,27 @@
+{
+  "title": "抵當丸方",
+  "herbText": "水蛭二十個（熬）蝱蟲二十個（去翅足、熬）桃仁二十五個（去皮尖）大黃三兩（酒洗）",
+  "comment": "右四味，搗分四丸，以水一升，煮一丸，取七合服之，晬時當下血。若不下者，更服。",
+  "herbs": [
+    {
+      "herb": "shuizhi",
+      "weight": "ershige",
+      "comment": "（熬）"
+    },
+    {
+      "herb": "mengchong",
+      "weight": "ershige",
+      "comment": "（去翅足、熬）"
+    },
+    {
+      "herb": "taoren",
+      "weight": "ershiwuge",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "sanliang",
+      "comment": "（酒洗）"
+    }
+  ]
+}

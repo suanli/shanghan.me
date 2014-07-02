@@ -1,0 +1,23 @@
+{
+  "capterRange": [
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 8,
+      "end": 75
+    },
+    {
+      "start": 76,
+      "end": 95
+    }
+  ],
+  "capterTitle": [
+    "六氣主客第三",
+    "傷寒例第四",
+    "雜病例第五"
+  ],
+  "volumeIndex": 3,
+  "volumeTitle": "傷寒雜病論第三"
+}

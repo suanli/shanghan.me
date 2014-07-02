@@ -1,0 +1,12 @@
+{
+  "title": "皂莢丸方",
+  "herbText": "皂莢八兩（刮去皮，酥炙）",
+  "comment": "右一味，末之，蜜丸如梧桐子大，以棗膏和湯，服三丸，日三服，夜一服。",
+  "herbs": [
+    {
+      "herb": "zaojia",
+      "weight": "baliang",
+      "comment": "（刮去皮，酥炙）"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "人參石膏湯方",
+  "herbText": "人參三兩石膏一斤碎（棉裹）竹葉一把黃連一兩半夏半升（洗）",
+  "comment": "右五味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "yijin",
+      "comment": "碎（棉裹）"
+    },
+    {
+      "herb": "zhuye",
+      "weight": "yiba"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    }
+  ]
+}

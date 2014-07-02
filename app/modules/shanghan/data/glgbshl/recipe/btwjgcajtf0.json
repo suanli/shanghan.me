@@ -1,0 +1,31 @@
+{
+  "title": "白頭翁加甘草阿膠湯方",
+  "herbText": "白頭翁二兩黃連三兩柏皮三兩秦皮三兩甘草二兩阿膠二兩",
+  "comment": "右六味，以水五升，先煮五味，取三升，去滓，納膠烊消，分溫三服。",
+  "herbs": [
+    {
+      "herb": "baitouweng",
+      "weight": "erliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "baipi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qinpi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "erliang"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "人參乾薑湯方",
+  "herbText": "人參二兩附子一枚乾薑三兩桂枝二兩（去皮）炙草二兩（炙）",
+  "comment": "右五味，以水二升，煮取一升，去滓。溫頓服之。",
+  "herbs": [
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "zhicao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

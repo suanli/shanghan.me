@@ -1,0 +1,35 @@
+{
+  "title": "桂枝去芍藥加牡蠣龍骨救逆湯方",
+  "herbText": "桂枝三兩甘草二兩（炙）生薑三兩（切）大棗十二枚（劈）牡蠣五兩（熬）龍骨四兩",
+  "comment": "右六味，以水一斗二升，煮取三升，去滓。溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "muli",
+      "weight": "wuliang",
+      "comment": "（熬）"
+    },
+    {
+      "herb": "longgu",
+      "weight": "siliang"
+    }
+  ]
+}

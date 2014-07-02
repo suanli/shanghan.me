@@ -1,0 +1,32 @@
+{
+  "title": "茯苓白朮厚朴石膏黃芩甘草湯方",
+  "herbText": "茯苓四兩白朮三兩厚朴四兩石膏半斤黃芩三兩甘草二兩（炙）",
+  "comment": "右六味，以水一斗，煮取五升，每服一升五合餘，日三服。",
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "houpo",
+      "weight": "siliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "banjin"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

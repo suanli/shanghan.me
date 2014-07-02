@@ -1,0 +1,20 @@
+{
+  "title": "栝蔞薤白白酒湯方",
+  "herbText": "栝蔞實一枚（搗）薤白半斤白酒七升",
+  "comment": "右三味，同煮，取二升，分溫再服。",
+  "herbs": [
+    {
+      "herb": "gualoushi",
+      "weight": "yimei",
+      "comment": "（搗）"
+    },
+    {
+      "herb": "xiebai",
+      "weight": "banjin"
+    },
+    {
+      "herb": "baijiu",
+      "weight": "qisheng"
+    }
+  ]
+}

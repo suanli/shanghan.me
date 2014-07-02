@@ -1,0 +1,34 @@
+{
+  "title": "白通加豬膽汁湯方",
+  "herbText": "蔥白四莖乾薑一兩附子一枚（生用，去皮，破八片）人尿五合豬膽汁一合",
+  "comment": "右五味，以水三升，先煮三物，取一升，去滓，納人尿、豬膽汁，和令相得，分溫再服。若無膽汁，亦可用。",
+  "comment_comment": [
+    {
+      "position": 7,
+      "comment": "「三升」：白雲閣本與會通本作「五升」，宋本及成本亦作「三升」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "congbai",
+      "weight": "sijing"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（生用，去皮，破八片）"
+    },
+    {
+      "herb": "renniao",
+      "weight": "wuhe"
+    },
+    {
+      "herb": "zhudanzhi",
+      "weight": "yihe"
+    }
+  ]
+}

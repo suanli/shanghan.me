@@ -1,0 +1,23 @@
+{
+  "title": "大黃黃芩地黃牡丹湯方",
+  "herbText": "大黃四兩黃芩三兩地黃四兩牡丹皮三兩",
+  "comment": "右四味，以水一斗二升，煮取二升，去滓，分溫二服。大便利，止後服。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "sanliang"
+    }
+  ]
+}

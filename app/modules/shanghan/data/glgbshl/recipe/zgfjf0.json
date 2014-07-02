@@ -1,0 +1,15 @@
+{
+  "title": "豬膏髮煎方",
+  "herbText": "豬膏半斤亂髮如雞子大三枚",
+  "comment": "右二味，和膏煎之，髮消藥成，分再服，病從小便出。",
+  "herbs": [
+    {
+      "herb": "zhugao",
+      "weight": "banjin"
+    },
+    {
+      "herb": "luanfa",
+      "weight": "rujizidasanmei"
+    }
+  ]
+}

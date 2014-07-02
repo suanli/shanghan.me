@@ -1,0 +1,25 @@
+{
+  "title": "甘草附子湯方",
+  "herbText": "甘草二兩（炙）附子二枚（炮去皮）白朮二兩桂枝四兩",
+  "comment": "右四味，以水六升，煮取三升，去滓，溫服一升，日三服。初服得微汗則解；能食，汗出，復煩者，服五合；恐一升多者，服六七合為佳。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "ermei",
+      "comment": "（炮去皮）"
+    },
+    {
+      "herb": "baishu",
+      "weight": "erliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "siliang"
+    }
+  ]
+}

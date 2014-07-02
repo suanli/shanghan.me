@@ -1,0 +1,37 @@
+{
+  "title": "竹葉石膏湯方",
+  "herbText": "竹葉二把石膏一斤半夏半升（洗）人參三兩麥門冬一升甘草二兩（炙）粳米半升",
+  "comment": "右七味，以水一斗，先煮六味，取六升，去滓，納粳米，煮米熟湯成，去米，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "zhuye",
+      "weight": "erba"
+    },
+    {
+      "herb": "shigao",
+      "weight": "yijin"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "maimendong",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "jingmi",
+      "weight": "bansheng"
+    }
+  ]
+}

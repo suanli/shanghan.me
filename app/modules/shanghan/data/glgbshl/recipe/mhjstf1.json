@@ -1,0 +1,28 @@
+{
+  "title": "麻黃加朮湯方",
+  "herbText": "麻黃三兩桂枝二兩杏仁七十個甘草一兩（炙）白朮四兩",
+  "comment": "右五味，以水九升，先煮麻黃，減二升，去上沫，納諸藥，煮二升半，去滓，溫服八合，覆取微汗，不汗再服，得汗停後服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "xingren",
+      "weight": "qishige"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "baishu",
+      "weight": "siliang"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "乾薑黃芩黃連人參湯方",
+  "herbText": "乾薑三兩黃芩三兩黃連三兩人參三兩",
+  "comment": "右四味，以水六升，煮取二升，去滓。分溫再服。",
+  "herbs": [
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    }
+  ]
+}

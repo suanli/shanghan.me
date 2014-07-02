@@ -1,0 +1,32 @@
+{
+  "title": "越婢加朮湯方",
+  "herbText": "麻黃六兩石膏半斤甘草二兩（炙）生薑三兩大棗十五枚白朮四兩",
+  "comment": "右六味，以水六升，先煮麻黃，去上沫，納諸藥，煮取三升，分溫三服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "banjin"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiwumei"
+    },
+    {
+      "herb": "baishu",
+      "weight": "siliang"
+    }
+  ]
+}

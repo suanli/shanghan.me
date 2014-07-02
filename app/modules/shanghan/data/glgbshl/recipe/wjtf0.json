@@ -1,0 +1,47 @@
+{
+  "title": "溫經湯方",
+  "herbText": "吳茱萸三兩當歸二兩芎藭二兩芍藥二兩人參二兩桂枝二兩阿膠二兩牡丹皮二兩甘草二兩生薑二兩",
+  "comment": "右十味，以水一斗，煮取三升，去滓，日三服，每服一升，溫飲之。",
+  "herbs": [
+    {
+      "herb": "wuzhuyu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "danggui",
+      "weight": "erliang"
+    },
+    {
+      "herb": "xiongqiong",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "erliang"
+    }
+  ]
+}

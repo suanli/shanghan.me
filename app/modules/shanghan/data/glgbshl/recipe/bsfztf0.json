@@ -1,0 +1,30 @@
+{
+  "title": "白朮附子湯方",
+  "herbText": "白朮一兩附子一枚（炮）甘草二兩（炙）生薑一兩半大棗六枚（擘）",
+  "comment": "右五味，以水三升，煮取一升，去滓，分溫三服。一服覺身痹，半日許再服，三服都盡，其人如冒狀，勿怪，即朮附並走皮中，逐水氣，未得除耳。",
+  "herbs": [
+    {
+      "herb": "baishu",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "dazao",
+      "weight": "liumei",
+      "comment": "（擘）"
+    }
+  ]
+}

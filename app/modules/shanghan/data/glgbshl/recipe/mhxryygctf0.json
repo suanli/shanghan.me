@@ -1,0 +1,25 @@
+{
+  "title": "麻黃杏仁薏苡甘草湯方",
+  "herbText": "麻黃一兩杏仁二十枚（去皮尖）薏苡一兩甘草一兩（炙）",
+  "comment": "右四味，以水六升，先煮麻黃，去上沫，納諸藥，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "xingren",
+      "weight": "ershimei",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "yiyi",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    }
+  ]
+}

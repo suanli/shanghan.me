@@ -1,0 +1,16 @@
+{
+  "title": "百合滑石散方",
+  "herbText": "百合一兩（炙）滑石二兩",
+  "comment": "右二味，為散，飲服方寸匙，日三服。當微利，熱除則止後服。",
+  "herbs": [
+    {
+      "herb": "baihe",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "huashi",
+      "weight": "erliang"
+    }
+  ]
+}

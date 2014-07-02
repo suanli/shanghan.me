@@ -1,0 +1,27 @@
+{
+  "title": "大黃香蒲湯方",
+  "herbText": "大黃四兩香蒲一兩黃連三兩地黃半斤牡丹皮六兩",
+  "comment": "右五味，以水一斗，煮取六升，去滓，溫服二升，日三服。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "xiangpu",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "banjin"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "liuliang"
+    }
+  ]
+}

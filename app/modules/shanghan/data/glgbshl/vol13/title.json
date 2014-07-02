@@ -1,0 +1,23 @@
+{
+  "capterRange": [
+    {
+      "start": 1,
+      "end": 12
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 18,
+      "end": 33
+    }
+  ],
+  "capterTitle": [
+    "辨百合狐惑陰陽毒病脈證並治",
+    "辨瘧病脈證並治",
+    "辨血痹虛勞病脈證並治"
+  ],
+  "volumeIndex": 13,
+  "volumeTitle": "傷寒雜病論第十三"
+}

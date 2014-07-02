@@ -1,0 +1,23 @@
+{
+  "title": "桂枝芍藥知母甘草湯方",
+  "herbText": "桂枝三兩芍藥三兩知母二兩甘草二兩",
+  "comment": "右四味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zhimu",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "赤石脂禹餘糧湯方",
+  "herbText": "赤石脂一斤（碎）太乙禹餘糧一斤（碎）",
+  "comment": "右二味，以水六升，煮取三升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "chishizhi",
+      "weight": "yijin",
+      "comment": "（碎）"
+    },
+    {
+      "herb": "taiyiyuyuliang",
+      "weight": "yijin",
+      "comment": "（碎）"
+    }
+  ]
+}

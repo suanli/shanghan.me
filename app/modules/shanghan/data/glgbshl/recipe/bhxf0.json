@@ -1,0 +1,11 @@
+{
+  "title": "百合洗方",
+  "herbText": "百合一升",
+  "comment": "右一味，以水一斗，漬之一宿，以洗身。洗已，食煮餅，勿以鹽豉也。",
+  "herbs": [
+    {
+      "herb": "baihe",
+      "weight": "yisheng"
+    }
+  ]
+}

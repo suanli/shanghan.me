@@ -1,0 +1,41 @@
+{
+  "title": "麻子仁丸方",
+  "herbText": "麻子仁二升芍藥半斤枳實半斤（炙）大黃一斤（去皮）厚朴一只（炙）杏仁一升（去皮尖）",
+  "comment": "右六味，蜜為丸，如梧桐子大，飲服十丸，日三服，漸加，以知為度。",
+  "herbs_comment": [
+    {
+      "position": 28,
+      "comment": "厚朴：書中他處皆以重量度量，唯此處作「只」。白雲閣本與會通本稱「尺」，宋本及成本亦作「尺」，有其他版本作「斤」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "maziren",
+      "weight": "ersheng"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "banjin"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "banjin",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "yijin",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "houpo",
+      "weight": "yizhi",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "xingren",
+      "weight": "yisheng",
+      "comment": "（去皮尖）"
+    }
+  ]
+}

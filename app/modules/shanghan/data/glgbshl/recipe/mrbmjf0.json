@@ -1,0 +1,15 @@
+{
+  "title": "麻仁白蜜煎方",
+  "herbText": "麻仁一升白蜜六合",
+  "comment": "右二味，以水四升，先煮麻仁，取一升五合，去滓，納蜜，微沸，和合，令小冷，頓服之。",
+  "herbs": [
+    {
+      "herb": "maren",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "baimi",
+      "weight": "liuhe"
+    }
+  ]
+}

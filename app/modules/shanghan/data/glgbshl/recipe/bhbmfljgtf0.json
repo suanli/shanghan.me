@@ -1,0 +1,24 @@
+{
+  "title": "百合貝母茯苓桔梗湯方",
+  "herbText": "百合七枚（洗，去沫）貝母三兩茯苓三兩桔梗二兩",
+  "comment": "右四味，以水七升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "baihe",
+      "weight": "qimei",
+      "comment": "（洗，去沫）"
+    },
+    {
+      "herb": "beimu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "jiegeng",
+      "weight": "erliang"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "澤瀉湯方",
+  "herbText": "澤瀉五兩白朮二兩",
+  "comment": "右二味，以水二升，煮取一升，分溫再服。",
+  "herbs": [
+    {
+      "herb": "zexie",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "erliang"
+    }
+  ]
+}

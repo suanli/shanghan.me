@@ -1,0 +1,29 @@
+{
+  "title": "真武湯方",
+  "herbText": "茯苓三兩芍藥三兩白朮二兩生薑三兩（切）附子一枚（炮去皮，破八片）",
+  "comment": "右五味，以水八升，煮取三升，去滓。溫服七合，日三服。若咳者，加五味子半升，細辛、乾薑各一兩。若小便不利者，加茯苓一兩；若下利者，去芍藥，加乾薑二兩；若嘔者，去附子，加生薑足前成半斤。",
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮去皮，破八片）"
+    }
+  ]
+}

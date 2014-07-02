@@ -1,0 +1,40 @@
+{
+  "title": "腎氣丸方",
+  "herbText": "地黃八兩薯蕷四兩山茱萸四兩澤瀉三兩牡丹皮三兩茯苓三兩桂枝一兩附子一枚（炮）",
+  "comment": "右八味，搗篩，煉蜜和丸，如梧桐子大，酒下十五丸，漸加至二十五丸，日再服。不能飲者，白飲下之。",
+  "herbs": [
+    {
+      "herb": "dihuang",
+      "weight": "baliang"
+    },
+    {
+      "herb": "shuyu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "shanzhuyu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮）"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "大黃䗪蟲丸方",
+  "herbText": "大黃十兩黃芩二兩甘草三兩桃仁一升杏仁一升芍藥四兩地黃十兩乾漆一兩蝱蟲一升水蛭百枚蠐螬一升䗪蟲半升",
+  "comment": "右十二味，末之，煉蜜和丸，如小豆大，酒飲服五丸，日三服。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "shiliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "taoren",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "xingren",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "siliang"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "shiliang"
+    },
+    {
+      "herb": "qianqi",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "mengchong",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "shuizhi",
+      "weight": "baimei"
+    },
+    {
+      "herb": "qicao",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "zhechong",
+      "weight": "bansheng"
+    }
+  ]
+}

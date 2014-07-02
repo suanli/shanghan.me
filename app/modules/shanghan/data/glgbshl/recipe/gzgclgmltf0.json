@@ -1,0 +1,25 @@
+{
+  "title": "桂枝甘草龍骨牡蠣湯方",
+  "herbText": "桂枝一兩甘草二兩（炙）龍骨二兩牡蠣二兩（熬）",
+  "comment": "右四味，以水五升，煮取三升，去滓。溫服一升，日三服。甚者，加人參三兩。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "longgu",
+      "weight": "erliang"
+    },
+    {
+      "herb": "muli",
+      "weight": "erliang",
+      "comment": "（熬）"
+    }
+  ]
+}

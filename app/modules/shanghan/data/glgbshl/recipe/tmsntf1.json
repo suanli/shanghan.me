@@ -1,0 +1,32 @@
+{
+  "title": "通脈四逆湯方",
+  "herbText": "甘草二兩（炙）附子大者一枚（生用，去皮，破八片）乾薑三兩人參二兩",
+  "comment": "右四味，以水三升，煮取一升二合，去滓，分溫再服。其脈即出者，愈。面色赤者，加蔥九莖；腹中痛者，去蔥，加芍藥二兩；嘔者，加生薑二兩；咽痛者，去芍藥，加桔梗一兩；利止脈不出者，去桔梗，加人參二兩。",
+  "herbs_comment": [
+    {
+      "position": 32,
+      "comment": "「二兩」：白雲閣本與會通本作「一兩」，宋本及成本均無人參一味。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "fuzi",
+      "weight_prefix": "大者",
+      "weight": "yimei",
+      "comment": "（生用，去皮，破八片）"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    }
+  ]
+}

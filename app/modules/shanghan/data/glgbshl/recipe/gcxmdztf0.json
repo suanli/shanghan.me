@@ -1,0 +1,20 @@
+{
+  "title": "甘草小麥大棗湯方",
+  "herbText": "甘草三兩小麥一升大棗十枚（劈）",
+  "comment": "右三味，以水六升，煮取三升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "xiaomai",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shimei",
+      "comment": "（劈）"
+    }
+  ]
+}

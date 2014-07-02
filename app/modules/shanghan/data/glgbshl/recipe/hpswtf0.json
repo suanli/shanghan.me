@@ -1,0 +1,26 @@
+{
+  "title": "厚朴四物湯方",
+  "herbText": "厚朴二兩（炙）枳實三枚（炙）半夏半升（洗）橘皮一兩",
+  "comment": "右四味，以水五升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "houpo",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "sanmei",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "jupi",
+      "weight": "yiliang"
+    }
+  ]
+}

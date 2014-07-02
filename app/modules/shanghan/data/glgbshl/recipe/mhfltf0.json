@@ -1,0 +1,28 @@
+{
+  "title": "麻黃茯苓湯方",
+  "herbText": "麻黃二兩（去節）茯苓三兩白朮三兩防己一兩赤小豆一升",
+  "comment": "右五味，以水七升，先煮麻黃再沸，去上沫，納諸藥，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "erliang",
+      "comment": "（去節）"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fangji",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "chixiaodou",
+      "weight": "yisheng"
+    }
+  ]
+}

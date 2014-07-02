@@ -1,0 +1,36 @@
+{
+  "title": "小柴胡湯方",
+  "herbText": "柴胡半斤黃芩三兩人參三兩甘草三兩（炙）生薑三兩大棗十二枚半夏半升",
+  "comment": "右七味，以水一斗二升，煮取六升，去滓，再煎取三升，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "chaihu",
+      "weight": "banjin"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    }
+  ]
+}

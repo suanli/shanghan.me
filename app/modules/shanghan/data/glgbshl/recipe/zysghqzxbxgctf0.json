@@ -1,0 +1,38 @@
+{
+  "title": "竹葉石膏黃芩澤瀉半夏甘草湯方",
+  "herbText": "竹葉兩把石膏半斤（棉裹）黃芩三兩澤瀉二兩半夏半升甘草二兩",
+  "comment": "右六味，以水五升，煮取三升，去滓。溫服一升，日三服。",
+  "herbs_comment": [
+    {
+      "position": 9,
+      "comment": "白雲閣本與會通本此處有「碎」字。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "zhuye",
+      "weight": "liang"
+    },
+    {
+      "herb": "bashigao",
+      "weight": "banjin",
+      "comment": "（棉裹）"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "erliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    }
+  ]
+}

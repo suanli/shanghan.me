@@ -1,0 +1,28 @@
+{
+  "title": "附子湯方",
+  "herbText": "附子二枚（炮去皮，破八片）茯苓三兩人參二兩白朮四兩芍藥三兩",
+  "comment": "右五味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "fuzi",
+      "weight": "ermei",
+      "comment": "（炮去皮，破八片）"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    }
+  ]
+}

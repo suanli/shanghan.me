@@ -1,0 +1,25 @@
+{
+  "title": "吳茱萸湯方",
+  "herbText": "吳茱萸一升人參三兩生薑六兩（切）大棗十二枚（劈）",
+  "comment": "右四味，以水七升，煮取二升，去滓，溫服七合，日三服。",
+  "herbs": [
+    {
+      "herb": "wuzhuyu",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "liuliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

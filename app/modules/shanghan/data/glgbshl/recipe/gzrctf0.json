@@ -1,0 +1,34 @@
+{
+  "title": "桂枝人參湯方",
+  "herbText": "桂枝四兩甘草四兩（炙）白朮三兩人參三兩乾薑三兩",
+  "comment": "右五味，以水九升，先煮四味，取五升，納桂枝，更煮取三升，去滓，溫服一升，日再服，夜一服。",
+  "title_comment": [
+    {
+      "position": 5,
+      "comment": "此方另見於【15.22】條，但在該條中，順序、甘草藥量、炙否、方後注等皆有與本條有所不同。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "siliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "siliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    }
+  ]
+}

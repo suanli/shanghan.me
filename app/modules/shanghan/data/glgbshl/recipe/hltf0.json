@@ -1,0 +1,38 @@
+{
+  "title": "黃連湯方",
+  "herbText": "黃連三兩甘草三兩（炙）乾薑三兩桂枝三兩人參二兩半夏半升（洗）大棗十二枚（劈）",
+  "comment": "右七味，以水一斗，煮取六升，去滓，溫服一升，日三服，夜三服。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "狼牙湯方",
+  "herbText": "狼牙三兩",
+  "comment": "右一味，以水四升，煮取半升，去滓，以綿纏箸如繭大，浸湯瀝陰中洗之，日四遍。",
+  "herbs": [
+    {
+      "herb": "langya",
+      "weight": "sanliang"
+    }
+  ]
+}

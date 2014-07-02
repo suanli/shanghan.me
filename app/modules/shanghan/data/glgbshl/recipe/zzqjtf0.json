@@ -1,0 +1,16 @@
+{
+  "title": "梔子乾薑湯方",
+  "herbText": "梔子十四枚（劈）乾薑二兩",
+  "comment": "右二味，以水三升半，煮取一升半，去滓，分溫二服。進一服得吐者，止後服。",
+  "herbs": [
+    {
+      "herb": "zhizi",
+      "weight": "shisimei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "erliang"
+    }
+  ]
+}

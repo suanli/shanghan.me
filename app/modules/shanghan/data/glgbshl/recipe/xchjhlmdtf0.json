@@ -1,0 +1,45 @@
+{
+  "title": "小柴胡加黃連牡丹湯方",
+  "herbText": "柴胡半斤黃芩三兩人參三兩栝蔞根四兩黃連三兩牡丹皮四兩甘草三兩（炙）生薑三兩大棗十二枚（劈）",
+  "comment": "右九味，以水一斗二升，煮取三升，去滓。溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "chaihu",
+      "weight": "banjin"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gualougen",
+      "weight": "siliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "siliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

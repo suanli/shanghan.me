@@ -1,0 +1,37 @@
+{
+  "title": "白虎加人參黃連阿膠湯方",
+  "herbText": "知母六兩石膏一斤碎（棉裹）甘草二兩（炙）粳米六合人參三兩黃連三兩阿膠二兩",
+  "comment": "右七味，以水一斗，先煮六味，米熟湯成，去滓，納膠烊消，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "zhimu",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "yijin",
+      "comment": "碎（棉裹）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "jingmi",
+      "weight": "liuhe"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "erliang"
+    }
+  ]
+}

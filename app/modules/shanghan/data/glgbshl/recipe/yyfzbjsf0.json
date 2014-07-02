@@ -1,0 +1,19 @@
+{
+  "title": "薏苡附子敗醬散方",
+  "herbText": "薏苡十分附子二分敗醬五分",
+  "comment": "右三味，杵為末，取方寸匙，以水二升，煮減半，去滓，頓服，小便當下血。",
+  "herbs": [
+    {
+      "herb": "yiyi",
+      "weight": "shifen"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "erfen"
+    },
+    {
+      "herb": "baijiang",
+      "weight": "wufen"
+    }
+  ]
+}

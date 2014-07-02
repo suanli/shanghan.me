@@ -1,0 +1,31 @@
+{
+  "title": "豬苓加人參湯方",
+  "herbText": "豬苓一兩茯苓一兩滑石一兩澤瀉一兩阿膠一兩人參三兩",
+  "comment": "右六味，以水四升，先煮五味，取二升，納阿膠烊消，溫服七合，日三服。",
+  "herbs": [
+    {
+      "herb": "zhuling",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huashi",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    }
+  ]
+}

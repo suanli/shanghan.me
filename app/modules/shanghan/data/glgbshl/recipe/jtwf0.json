@@ -1,0 +1,32 @@
+{
+  "title": "九痛丸方",
+  "herbText": "附子三兩狼毒四兩巴豆一兩（去皮心熬研如脂）人參一兩乾薑一兩吳茱萸一兩",
+  "comment": "右六味，末之，蜜丸如梧桐子大，酒下，強人初服三丸，日三服，弱者二丸。兼治卒中惡，腹脹痛，口不能言；又治連年積冷，流注心胸痛，冷氣上衝；落馬、墜車、血疾等，皆主之。忌口如常法。",
+  "herbs": [
+    {
+      "herb": "fuzi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "langdu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "badou",
+      "weight": "yiliang",
+      "comment": "（去皮心熬研如脂）"
+    },
+    {
+      "herb": "rencan",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "wuzhuyu",
+      "weight": "yiliang"
+    }
+  ]
+}

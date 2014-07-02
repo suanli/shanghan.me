@@ -1,0 +1,17 @@
+{
+  "title": "梔子豉湯方",
+  "herbText": "梔子十四枚（劈）香豉四合（棉裹）",
+  "comment": "右二味，以水四升，先煮梔子，取二升，納豉，更煮取一升半，去滓，分溫再服，一服得吐，止後服。",
+  "herbs": [
+    {
+      "herb": "zhizi",
+      "weight": "shisimei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "xiangchi",
+      "weight": "sihe",
+      "comment": "（棉裹）"
+    }
+  ]
+}

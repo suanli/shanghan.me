@@ -1,9 +1,9 @@
 <div class="sh-main">
     <div ng-controller="mainItemController">
-        <div class="page-header sh-chapter-title"><h1>{{chapter.index}}&nbsp;{{chapter.title}}</h1></div>
+        <div class="page-header sh-chapter-title"><h1>{{chapter.volumeIndex}}&nbsp;{{chapter.volumeTitle}}</h1></div>
         <div class="row" ng-repeat="singleItem in items">
             <div class="col-md-1 sh-index"><button type="button" class="btn btn-xs btn-default">
-                {{chapter.index}}.{{singleItem.index}}</button>
+                {{singleItem.vol}}.{{singleItem.index}}</button>
             </div>
             <div class="col-md-11 sh-item-content">
                 <div class="row ">
@@ -12,24 +12,30 @@
                     </div>
                 </div>
                 <div class="row sh-item-recipe" ng-show="singleItem.recipe">
-                    <div class="col-md-12">
-                        <div class="row">
-                            <div class="col-md-12 sh-item-recipe-title">
-                                <strong>{{singleItem.recipe.title}}</strong>
+                    <div class="row" ng-repeat="recipe in singleItem.recipe">
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-12 sh-item-recipe-title">
+                                    <strong>{{recipe.title}}</strong>
+                                </div>
                             </div>
-                        </div>
-                        <div class="row sh-item-recipe-text">
-                            <div class="col-md-12">
-                                <div class="row" ng-repeat="rows in singleItem.recipe.items | partition:3">
-                                    <div class="col-md-4 sh-herb" ng-repeat="item in rows">
-                                        <strong>{{item.herb}}</strong>&nbsp;<small>{{item.weight}}</small>&nbsp;<small ng-show="item.comment">（{{item.comment}}）</small>
+                            <div class="row sh-item-recipe-text">
+                                <div class="col-md-12">
+                                    <div class="row" ng-repeat="rows in recipe.herbs | partition:3">
+                                        <div class="col-md-4 sh-herb" ng-repeat="item in rows">
+                                            <strong>{{item.herb}}</strong>&nbsp;
+                                            <small ng-show="item.weight_prefix">{{item.weight_prefix}}</small>
+                                            <small>{{item.weight}}</small>
+                                            <small ng-show="item.weight_postfix">{{item.weight_postfix}}</small>&nbsp;
+                                            <small ng-show="item.comment">{{item.comment}}</small>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                {{singleItem.recipe.comment}}
+                            <div class="row">
+                                <div class="col-md-12">
+                                    {{recipe.comment}}
+                                </div>
                             </div>
                         </div>
                     </div>

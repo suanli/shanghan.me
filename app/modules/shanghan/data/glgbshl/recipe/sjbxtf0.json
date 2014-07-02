@@ -1,0 +1,21 @@
+{
+  "title": "生薑半夏湯方",
+  "herbText": "生薑一斤半夏半升",
+  "comment": "右二味，以水三升，先煮半夏，取二升，納生薑汁，煮取一升，小冷，分四服，日三夜一。嘔止，停後服。",
+  "comment_comment": [
+    {
+      "position": 27,
+      "comment": "廣西80本此處有「去滓」二字，白雲閣本與會通本、廣西60本均無此二字。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "shengjiang",
+      "weight": "yijin"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    }
+  ]
+}

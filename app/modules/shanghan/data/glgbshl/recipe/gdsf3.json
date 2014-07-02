@@ -1,0 +1,15 @@
+{
+  "title": "瓜蒂散方",
+  "herbText": "瓜蒂一分赤小豆一分",
+  "comment": "右二味，杵為散，以香豉七合，煮取汁，和散一錢匙，溫服之，不吐者少加之，以快吐為度而止。",
+  "herbs": [
+    {
+      "herb": "guadi",
+      "weight": "yifen"
+    },
+    {
+      "herb": "chixiaodou",
+      "weight": "yifen"
+    }
+  ]
+}

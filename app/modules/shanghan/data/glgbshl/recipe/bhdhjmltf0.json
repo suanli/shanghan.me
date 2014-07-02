@@ -1,0 +1,19 @@
+{
+  "title": "百合地黃加牡蠣湯方",
+  "herbText": "百合七枚地黃汁一升牡蠣二兩",
+  "comment": "右三味，先以水洗百合，漬一宿，當白沫出，去其水，另以泉水二升，煮二味，取一升，去滓，納地黃汁，煮取一升五合，分溫再服。",
+  "herbs": [
+    {
+      "herb": "baihe",
+      "weight": "qimei"
+    },
+    {
+      "herb": "dihuangzhi",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "muli",
+      "weight": "erliang"
+    }
+  ]
+}

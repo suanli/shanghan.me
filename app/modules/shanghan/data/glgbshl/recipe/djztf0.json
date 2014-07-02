@@ -1,0 +1,24 @@
+{
+  "title": "大建中湯方",
+  "herbText": "蜀椒二合去目汗乾薑四兩人參一兩膠飴一升",
+  "comment": "右四味，以水四升，先煮三味，取二升，去滓，納膠飴，微火煮取一升半，分溫再服，如一炊頃，可飲粥二升，後更服，當一日食糜粥，溫覆之。",
+  "herbs": [
+    {
+      "herb": "shujiao",
+      "weight": "erhe",
+      "comment": "去目汗"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "jiaoyi",
+      "weight": "yisheng"
+    }
+  ]
+}

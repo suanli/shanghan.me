@@ -1,0 +1,24 @@
+{
+  "title": "葛根黃連黃芩甘草湯方",
+  "herbText": "葛根半斤甘草二兩（炙）黃連三兩黃芩三兩",
+  "comment": "右四味，以水八升，先煮葛根減二升，納諸藥，煮取二升，去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "gegen",
+      "weight": "banjin"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    }
+  ]
+}

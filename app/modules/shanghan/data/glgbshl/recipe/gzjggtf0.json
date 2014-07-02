@@ -1,0 +1,35 @@
+{
+  "title": "桂枝加葛根湯方",
+  "herbText": "桂枝三兩（去皮）芍藥三兩甘草二兩（炙）生薑三兩（切）大棗十二枚（擘）葛根四兩",
+  "comment": "右六味，先以水七升，煮葛根去上沫，納諸藥，煮取三升，去滓，溫服一升，日三服，不須啜粥，餘如桂枝將息及禁忌法。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（擘）"
+    },
+    {
+      "herb": "gegen",
+      "weight": "siliang"
+    }
+  ]
+}

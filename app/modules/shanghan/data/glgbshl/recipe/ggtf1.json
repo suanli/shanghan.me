@@ -1,0 +1,39 @@
+{
+  "title": "葛根湯方",
+  "herbText": "葛根四兩麻黃三兩（去節）桂枝二兩芍藥二兩甘草二兩（炙）生薑三兩（切）大棗十二枚（劈）",
+  "comment": "右七味，以水一斗，先煮麻黃葛根減二升，去上沫，納諸藥，煮取三升，去滓，溫服一升，覆取微似汗，不汗再進一升，得汗停後服。",
+  "herbs": [
+    {
+      "herb": "gegen",
+      "weight": "siliang"
+    },
+    {
+      "herb": "mahuang",
+      "weight": "sanliang",
+      "comment": "（去節）"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

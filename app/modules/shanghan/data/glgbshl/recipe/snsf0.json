@@ -1,0 +1,25 @@
+{
+  "title": "四逆散方",
+  "herbText": "甘草二兩（炙）附子大者一枚乾薑一兩半人參二兩",
+  "comment": "右四味，搗篩，白飲和服方寸匙。咳者，去人參，加五味子、乾薑各五分，並主下利；悸者，加桂枝五分；小便不利者，加茯苓五分；泄利下重者，先以水五升，煮薤白三兩，取三升，去滓，以散三方寸匙納湯中，煮取一升半，分溫再服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "fuzi",
+      "weight_prefix": "大者",
+      "weight": "yimei"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    }
+  ]
+}

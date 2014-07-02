@@ -1,0 +1,23 @@
+{
+  "title": "竹茹半夏湯方",
+  "herbText": "竹茹二兩栝蔞根二兩茯苓三兩半夏半升",
+  "comment": "右四味，以水五升，煮取三升，分溫三服。",
+  "herbs": [
+    {
+      "herb": "zhuru",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gualougen",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "柴胡芍藥枳實甘草湯方",
+  "herbText": "柴胡八兩芍藥三兩枳實四枚（炙）甘草三兩（炙）",
+  "comment": "右四味，以水一斗，煮取六升，去滓，再煎取三升，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "chaihu",
+      "weight": "baliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "simei",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    }
+  ]
+}

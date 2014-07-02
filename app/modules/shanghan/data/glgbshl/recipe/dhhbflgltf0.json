@@ -1,0 +1,23 @@
+{
+  "title": "地黃黃柏茯苓栝蔞湯方",
+  "herbText": "地黃六兩黃柏三兩茯苓三兩栝蔞根四兩",
+  "comment": "右四味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "dihuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "huangbai",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gualougen",
+      "weight": "siliang"
+    }
+  ]
+}

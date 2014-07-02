@@ -1,0 +1,34 @@
+{
+  "title": "枳實橘皮桔梗半夏生薑甘草湯方",
+  "herbText": "枳實四枚橘皮二兩桔梗三兩半夏半升（洗）生薑三兩（切）甘草二兩（炙）",
+  "comment": "右六味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "zhishi",
+      "weight": "simei"
+    },
+    {
+      "herb": "jupi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "jiegeng",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

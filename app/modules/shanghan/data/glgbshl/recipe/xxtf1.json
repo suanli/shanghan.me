@@ -1,0 +1,15 @@
+{
+  "title": "瀉心湯方",
+  "herbText": "大黃二兩黃連一兩",
+  "comment": "右二味，以麻沸湯二升，漬之，須臾絞去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    }
+  ]
+}

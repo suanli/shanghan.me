@@ -1,0 +1,24 @@
+{
+  "title": "栝蔞薤白半夏湯方",
+  "herbText": "栝蔞實一枚（搗）薤白三兩半夏半升白酒一斗",
+  "comment": "右四味，同煮，取四升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "gualoushi",
+      "weight": "yimei",
+      "comment": "（搗）"
+    },
+    {
+      "herb": "xiebai",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "baijiu",
+      "weight": "yidou"
+    }
+  ]
+}

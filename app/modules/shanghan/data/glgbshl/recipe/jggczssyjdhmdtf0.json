@@ -1,0 +1,31 @@
+{
+  "title": "桔梗甘草枳實芍藥加地黃牡丹湯方",
+  "herbText": "桔梗三兩甘草二兩枳實四枚芍藥三兩地黃三兩牡丹皮二兩",
+  "comment": "右六味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "jiegeng",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "simei"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "erliang"
+    }
+  ]
+}

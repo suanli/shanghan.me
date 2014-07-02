@@ -1,0 +1,17 @@
+{
+  "title": "葶藶大棗瀉肺湯方",
+  "herbText": "葶藶熬令黃色（搗丸如彈子大）大棗十二枚",
+  "comment": "右二味，以水三升，先煮大棗取二升，去棗，納葶藶，煮取一升，去滓，頓服。",
+  "herbs": [
+    {
+      "herb": "tingli",
+      "weight_prefix": "熬令黃色",
+      "comment": "（搗丸如彈子大）",
+      "weight": ""
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "大黃厚朴枳實半夏甘草湯方",
+  "herbText": "大黃三兩厚朴三兩枳實三兩半夏一升甘草一兩（炙）",
+  "comment": "右五味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "houpo",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    }
+  ]
+}

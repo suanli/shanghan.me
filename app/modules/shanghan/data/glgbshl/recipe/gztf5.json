@@ -1,0 +1,29 @@
+{
+  "title": "桂枝湯方",
+  "herbText": "桂枝三兩芍藥三兩甘草二兩（炙）生薑三兩大棗十二枚（劈）",
+  "comment": "右五味，以水七升，煮取三升，去滓，溫服一升，日三服，將息禁忌如太陽法。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

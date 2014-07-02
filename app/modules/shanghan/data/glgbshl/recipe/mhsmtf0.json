@@ -1,0 +1,37 @@
+{
+  "title": "麻黃升麻湯方",
+  "herbText": "麻黃二兩半（去節）升麻一兩知母一兩黃芩一兩半桂枝二兩白朮一兩甘草一兩（炙）",
+  "comment": "右七味，以水一斗，先煮麻黃去上沫，納諸藥，煮取三升，去滓。溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "erliangban",
+      "comment": "（去節）"
+    },
+    {
+      "herb": "shengma",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "zhimu",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    }
+  ]
+}

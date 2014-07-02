@@ -1,0 +1,21 @@
+{
+  "title": "百合地黃湯方",
+  "herbText": "百合七枚地黃汁一升",
+  "comment": "右二味，先洗煮百合如上法，去滓，納地黃汁，煎取一升五合，分溫再服。中病，勿更服。大便當如漆。",
+  "herbs_comment": [
+    {
+      "position": 4,
+      "comment": "白雲閣本與會通本此處有「（擘）」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "baihe",
+      "weight": "qimei"
+    },
+    {
+      "herb": "dihuangzhi",
+      "weight": "yisheng"
+    }
+  ]
+}

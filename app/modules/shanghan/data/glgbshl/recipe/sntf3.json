@@ -1,0 +1,30 @@
+{
+  "title": "四逆湯方",
+  "herbText": "人參二兩甘草二兩乾薑一兩半附子一枚（生用，去皮，破八片）",
+  "comment": "右四味，以水三升，煮取一升二合，去滓，分溫再服，若強可用大附子一枚，乾薑二兩。",
+  "title_comment": [
+    {
+      "position": 3,
+      "comment": "「四逆湯方」在書中多次出現，且略有不同。請參看【6.29】和【11.44】條注解。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（生用，去皮，破八片）"
+    }
+  ]
+}

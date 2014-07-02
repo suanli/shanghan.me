@@ -1,0 +1,11 @@
+{
+  "title": "雄黃散方",
+  "herbText": "雄黃一兩",
+  "comment": "右一味，為末，筒瓦二枚合之，納藥於中，以火燒烟，向肛薰之。",
+  "herbs": [
+    {
+      "herb": "xionghuang",
+      "weight": "yiliang"
+    }
+  ]
+}

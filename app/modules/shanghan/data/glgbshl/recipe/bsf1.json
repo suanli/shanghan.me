@@ -1,0 +1,19 @@
+{
+  "title": "白散方",
+  "herbText": "桔梗三分巴豆一分貝母三分",
+  "comment": "右三味為散，更於臼中杵之，以白飲和服，強人半錢匙，羸者減之。病在膈上必吐，在膈下必利。不利進熱粥一杯，利不止進冷粥一杯。",
+  "herbs": [
+    {
+      "herb": "jiegeng",
+      "weight": "sanfen"
+    },
+    {
+      "herb": "badou",
+      "weight": "yifen"
+    },
+    {
+      "herb": "beimu",
+      "weight": "sanfen"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "桂枝當歸牡丹皮桃仁枳實湯方",
+  "herbText": "桂枝三兩（去皮）當歸二兩牡丹皮三兩桃仁二十枚（去皮尖）枳實二兩",
+  "comment": "右五味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "danggui",
+      "weight": "erliang"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "taoren",
+      "weight": "ershimei",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "erliang"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "一物瓜蒂湯方",
+  "herbText": "瓜蒂二十個",
+  "comment": "右剉，以水一升，煮取五合，去滓，頓服。",
+  "herbs": [
+    {
+      "herb": "guadi",
+      "weight": "ershige"
+    }
+  ]
+}

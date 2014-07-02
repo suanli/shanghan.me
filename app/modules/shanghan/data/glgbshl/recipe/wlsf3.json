@@ -1,0 +1,34 @@
+{
+  "title": "五苓散方",
+  "herbText": "豬苓八十銖白朮八十銖茯苓八十銖澤瀉一兩六銖桂枝半兩（去皮）",
+  "comment": "右五味為散，白飲和服方寸匙，日三服。發黃者，加茵陳蒿十分。",
+  "title_comment": [
+    {
+      "position": 3,
+      "comment": "此方中豬苓、白朮、茯苓均為八十銖，白雲閣本只列「見太陽病中」。而本書中多次出現此方，且他處此方中，此三味劑量均為十八銖。似應以十八銖為正。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "zhuling",
+      "weight": "bashizhu"
+    },
+    {
+      "herb": "baishu",
+      "weight": "bashizhu"
+    },
+    {
+      "herb": "fuling",
+      "weight": "bashizhu"
+    },
+    {
+      "herb": "zexie",
+      "weight": "yiliangliuzhu"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "banliang",
+      "comment": "（去皮）"
+    }
+  ]
+}

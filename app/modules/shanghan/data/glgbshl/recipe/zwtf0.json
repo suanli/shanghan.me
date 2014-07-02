@@ -1,0 +1,29 @@
+{
+  "title": "真武湯方",
+  "herbText": "茯苓三兩芍藥三兩生薑三兩（切）白朮二兩附子一枚（炮去皮，破八片）",
+  "comment": "右五味，以水八升，煮取三升，去滓，溫服七合，日三服。",
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "baishu",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮去皮，破八片）"
+    }
+  ]
+}

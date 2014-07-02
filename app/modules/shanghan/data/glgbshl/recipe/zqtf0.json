@@ -1,0 +1,32 @@
+{
+  "title": "澤漆湯方",
+  "herbText": "半夏半升紫參五兩澤漆三升生薑五兩人參三兩甘草三兩（炙）",
+  "comment": "右六味，以東流水五斗，先煮澤漆，取一斗五升，納諸藥，煮取五升，溫服五合，日夜服盡。",
+  "herbs": [
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "zican",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "zeqi",
+      "weight": "sansheng"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    }
+  ]
+}

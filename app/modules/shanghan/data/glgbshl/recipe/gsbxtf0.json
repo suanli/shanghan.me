@@ -1,0 +1,25 @@
+{
+  "title": "甘遂半夏湯方",
+  "herbText": "甘遂大者三枚半夏十二枚芍藥五枚甘草如指大一枚（炙）",
+  "comment": "右四味，以水二升，煮取半升，去滓，以蜜半升和藥汁，煎取八合，頓服。",
+  "herbs": [
+    {
+      "herb": "gansui",
+      "weight_prefix": "大者",
+      "weight": "sanmei"
+    },
+    {
+      "herb": "banxia",
+      "weight": "shiermei"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "wumei"
+    },
+    {
+      "herb": "gancao",
+      "weight": "ruzhidayimei",
+      "comment": "（炙）"
+    }
+  ]
+}

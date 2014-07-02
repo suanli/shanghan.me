@@ -1,0 +1,42 @@
+{
+  "title": "黃土湯方",
+  "herbText": "灶中黃土半斤甘草三兩地黃三兩白朮三兩附子三兩（炮）阿膠三兩黃芩三兩",
+  "comment": "右七味，以水八升，煮取三升，去滓，分溫三服。",
+  "comment_comment": [
+    {
+      "position": 21,
+      "comment": "會通本在「去滓」後有「內膠令烊」，白雲閣本作「煮取三升分溫三服」，無「去滓」、「內膠令烊」等字。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "zaozhonghuangtu",
+      "weight": "banjin"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "sanliang",
+      "comment": "（炮）"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    }
+  ]
+}

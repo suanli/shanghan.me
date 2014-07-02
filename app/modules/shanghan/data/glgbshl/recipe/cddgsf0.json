@@ -1,0 +1,22 @@
+{
+  "title": "赤豆當歸散方",
+  "herbText": "赤小豆三升（浸令毛出，曝乾）當歸十兩",
+  "comment": "右二味，杵為散，漿水服方寸匙，日三服。",
+  "herbs_comment": [
+    {
+      "position": 9,
+      "comment": "「毛」：白雲閣本與會通本作「芽」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "chixiaodou",
+      "weight": "sansheng",
+      "comment": "（浸令毛出，曝乾）"
+    },
+    {
+      "herb": "danggui",
+      "weight": "shiliang"
+    }
+  ]
+}

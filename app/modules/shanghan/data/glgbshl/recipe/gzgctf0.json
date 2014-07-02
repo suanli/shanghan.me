@@ -1,0 +1,17 @@
+{
+  "title": "桂枝甘草湯方",
+  "herbText": "桂枝四兩（去皮）甘草二兩（炙）",
+  "comment": "右二味，以水三升，煮取一升，去滓，頓服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "siliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

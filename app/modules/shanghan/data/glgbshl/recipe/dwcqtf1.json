@@ -1,0 +1,21 @@
+{
+  "title": "調胃承氣湯方",
+  "herbText": "大黃四兩（酒洗）甘草二兩（炙）芒硝半斤",
+  "comment": "右三味，以水三升，煮二物至一升，去滓，納芒硝，更上微火，煮令沸，少少溫服之。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "siliang",
+      "comment": "（酒洗）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "mangxiao",
+      "weight": "banjin"
+    }
+  ]
+}

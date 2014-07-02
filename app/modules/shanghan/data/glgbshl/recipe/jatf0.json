@@ -1,0 +1,35 @@
+{
+  "title": "膠艾湯方",
+  "herbText": "地黃六兩芎藭二兩阿膠二兩艾葉三兩當歸三兩芍藥四兩甘草二兩",
+  "comment": "右七味，以水五升，清酒三升，煮六味，取三升，去滓，納膠烊消，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "dihuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "xiongqiong",
+      "weight": "erliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "aiye",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "danggui",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "siliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    }
+  ]
+}

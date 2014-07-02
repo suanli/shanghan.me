@@ -1,0 +1,20 @@
+{
+  "title": "茯苓白朮甘草湯方",
+  "herbText": "茯苓四兩白朮三兩甘草一兩（炙）",
+  "comment": "右三味，以水八升，煮取三升，去滓，溫服一升，日三服。溫邪乘肺也，黃芩石膏杏子湯主之。」脈有小異，方亦不同。",
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    }
+  ]
+}

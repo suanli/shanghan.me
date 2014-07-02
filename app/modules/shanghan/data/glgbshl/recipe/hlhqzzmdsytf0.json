@@ -1,0 +1,28 @@
+{
+  "title": "黃連黃芩梔子牡丹芍藥湯方",
+  "herbText": "黃連三兩黃芩三兩梔子十四枚（劈）牡丹三兩芍藥三兩",
+  "comment": "右五味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zhizi",
+      "weight": "shisimei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "mudan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "防己黃耆湯方",
+  "herbText": "防己一兩甘草五錢（炙）白朮七錢半黃耆一兩",
+  "comment": "右四味，剉如麻豆大，每抄五錢匙，生薑四片，大棗一枚，水一升半，煮取八合，去滓，溫服；喘者，加麻黃五錢；胃中不和者，加芍藥三分；氣上衝者，加桂枝三分；下有陳寒者，加細辛三分；服且當如蟲行皮中，從腰下如冰，後坐被上，又以一被繞腰下，溫令有微汗差。",
+  "herbs": [
+    {
+      "herb": "fangji",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "wuqian",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "baishu",
+      "weight": "qiqianban"
+    },
+    {
+      "herb": "huangqi",
+      "weight": "yiliang"
+    }
+  ]
+}

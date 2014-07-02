@@ -1,0 +1,31 @@
+{
+  "title": "栝蔞茯苓湯方",
+  "herbText": "栝蔞大者一枚（共皮子搗）茯苓三兩半夏三兩（洗）黃連二兩甘草一兩（炙）",
+  "comment": "右五味，以水五升，煮取二升，溫服一升，日再服。",
+  "herbs": [
+    {
+      "herb": "gualou",
+      "weight_prefix": "大者",
+      "weight": "yimei",
+      "comment": "（共皮子搗）"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "sanliang",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    }
+  ]
+}

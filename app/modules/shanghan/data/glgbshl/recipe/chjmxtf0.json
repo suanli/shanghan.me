@@ -1,0 +1,47 @@
+{
+  "title": "柴胡加芒硝湯方",
+  "herbText": "柴胡二兩十六銖黃芩一兩人參一兩甘草一兩（炙）生薑一兩（切）芒硝二兩大棗四枚半夏二十銖",
+  "comment": "右八味，以水四升，煮取二升，去滓，納芒硝，更煮微沸，分溫再服。不解，更作。",
+  "herbs_comment": [
+    {
+      "position": 7,
+      "comment": "一兩合二十四銖。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "chaihu",
+      "weight": "erliangshiliuzhu"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "yiliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "mangxiao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "simei"
+    },
+    {
+      "herb": "banxia",
+      "weight": "ershizhu"
+    }
+  ]
+}

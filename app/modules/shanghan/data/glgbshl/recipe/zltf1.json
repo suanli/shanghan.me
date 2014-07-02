@@ -1,0 +1,29 @@
+{
+  "title": "豬苓湯方",
+  "herbText": "豬苓一兩（去皮）茯苓一兩（去皮）阿膠一兩澤瀉一兩滑石一兩",
+  "comment": "右五味，以水四升，先煮四物，取二升，去滓，納膠烊盡，溫服七合，日三服。",
+  "herbs": [
+    {
+      "herb": "zhuling",
+      "weight": "yiliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "fuling",
+      "weight": "yiliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huashi",
+      "weight": "yiliang"
+    }
+  ]
+}

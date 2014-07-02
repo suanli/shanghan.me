@@ -1,0 +1,23 @@
+{
+  "title": "黃連黃芩阿膠甘草湯方",
+  "herbText": "黃連一兩黃芩一兩阿膠一兩甘草一兩",
+  "comment": "右四味，以水一斗，先煮三味，取四升，去滓，納膠烊消，分溫三服。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang"
+    }
+  ]
+}

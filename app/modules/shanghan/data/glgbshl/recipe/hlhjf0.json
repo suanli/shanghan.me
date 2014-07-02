@@ -1,0 +1,11 @@
+{
+  "title": "紅藍花酒方",
+  "herbText": "紅藍花一兩",
+  "comment": "右一味，以酒一斗，煎減半，去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "honglanhua",
+      "weight": "yiliang"
+    }
+  ]
+}

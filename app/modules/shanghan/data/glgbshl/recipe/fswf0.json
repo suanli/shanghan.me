@@ -1,0 +1,16 @@
+{
+  "title": "礬石丸方",
+  "herbText": "礬石三分（燒）杏仁一分",
+  "comment": "右二味，末之，煉蜜為丸，棗核大，納臟中，劇者再納之。",
+  "herbs": [
+    {
+      "herb": "fanshi",
+      "weight": "sanfen",
+      "comment": "（燒）"
+    },
+    {
+      "herb": "xingren",
+      "weight": "yifen"
+    }
+  ]
+}

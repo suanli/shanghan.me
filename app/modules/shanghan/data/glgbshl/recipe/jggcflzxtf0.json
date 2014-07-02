@@ -1,0 +1,23 @@
+{
+  "title": "桔梗甘草茯苓澤瀉湯方",
+  "herbText": "桔梗三兩甘草二兩茯苓三兩澤瀉二兩",
+  "comment": "右四味，以水五升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "jiegeng",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "erliang"
+    }
+  ]
+}

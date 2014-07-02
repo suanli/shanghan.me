@@ -1,0 +1,23 @@
+{
+  "title": "半夏茯苓湯方",
+  "herbText": "半夏一升茯苓四兩澤瀉二兩乾薑一兩",
+  "comment": "右四味，以水四升，煮取三升，去滓，分溫再服，小便利，則愈。",
+  "herbs": [
+    {
+      "herb": "banxia",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "erliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang"
+    }
+  ]
+}

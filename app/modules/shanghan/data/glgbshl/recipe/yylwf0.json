@@ -1,0 +1,31 @@
+{
+  "title": "禹餘糧丸方",
+  "herbText": "禹餘糧四兩人參三兩附子二枚五味子三合茯苓三兩乾薑三兩",
+  "comment": "右六味，蜜為丸，如梧桐子大。每服二十丸。",
+  "herbs": [
+    {
+      "herb": "yuyuliang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "ermei"
+    },
+    {
+      "herb": "wuweizi",
+      "weight": "sanhe"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    }
+  ]
+}

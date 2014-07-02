@@ -1,0 +1,24 @@
+{
+  "title": "天雄散方",
+  "herbText": "天雄三兩（炮）白朮八兩桂枝六兩龍骨三兩",
+  "comment": "右四味，杵為散，酒服半錢匙，日三服。不知稍增，以知為度。",
+  "herbs": [
+    {
+      "herb": "tianxiong",
+      "weight": "sanliang",
+      "comment": "（炮）"
+    },
+    {
+      "herb": "baishu",
+      "weight": "baliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "longgu",
+      "weight": "sanliang"
+    }
+  ]
+}

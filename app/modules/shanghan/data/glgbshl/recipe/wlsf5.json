@@ -1,0 +1,27 @@
+{
+  "title": "五苓散方",
+  "herbText": "豬苓十八銖白朮十八銖茯苓十八銖桂枝半兩澤瀉一兩六銖",
+  "comment": "右五味，搗為散，以白飲和服方寸匙，日三服，多飲暖水，汗出愈，將息如法。",
+  "herbs": [
+    {
+      "herb": "zhuling",
+      "weight": "shibazhu"
+    },
+    {
+      "herb": "baishu",
+      "weight": "shibazhu"
+    },
+    {
+      "herb": "fuling",
+      "weight": "shibazhu"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "banliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "yiliangliuzhu"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "當歸散方",
+  "herbText": "當歸一斤黃芩一斤芍藥一斤芎藭一斤白朮半斤",
+  "comment": "右五味，杵為散，酒服方寸匙，日再服。",
+  "herbs": [
+    {
+      "herb": "danggui",
+      "weight": "yijin"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "yijin"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "yijin"
+    },
+    {
+      "herb": "xiongqiong",
+      "weight": "yijin"
+    },
+    {
+      "herb": "baishu",
+      "weight": "banjin"
+    }
+  ]
+}

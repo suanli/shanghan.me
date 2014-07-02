@@ -1,0 +1,25 @@
+{
+  "title": "大陷胸湯方",
+  "herbText": "大黃六兩芒硝一升甘遂一錢匙",
+  "comment": "右三味，以水六升，先煮大黃，取二升，去滓，納芒硝，煮二沸，納甘遂末，溫服一升，得快利，止後服。",
+  "herbs_comment": [
+    {
+      "position": 13,
+      "comment": "「一錢匙」：廣西本為「一錢（匙）」。因「一錢匙」為計量單位，故廣西本應誤。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "mangxiao",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "gansui",
+      "weight": "yiqianchi"
+    }
+  ]
+}

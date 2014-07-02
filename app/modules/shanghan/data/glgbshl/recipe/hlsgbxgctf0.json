@@ -1,0 +1,25 @@
+{
+  "title": "黃連石膏半夏甘草湯方",
+  "herbText": "黃連一兩石膏一斤碎（棉裹）半夏半升（洗）甘草三兩",
+  "comment": "右四味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "yijin",
+      "comment": "碎（棉裹）"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    }
+  ]
+}

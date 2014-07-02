@@ -1,0 +1,25 @@
+{
+  "title": "茯苓桂枝甘草大棗湯方",
+  "herbText": "茯苓半斤桂枝四兩甘草二兩（炙）大棗十五枚（劈）",
+  "comment": "右四味，以甘瀾水一斗，先煮茯苓，減二升，納諸藥，煮取三升，去滓。溫服一升，日三服。作甘瀾水法：取水二斗置大盆內，以杓揚之，水上有珠子五六千顆相逐，取用之。",
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "banjin"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "siliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiwumei",
+      "comment": "（劈）"
+    }
+  ]
+}

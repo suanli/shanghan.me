@@ -1,0 +1,21 @@
+{
+  "title": "梔子柏皮湯方",
+  "herbText": "梔子十五個（劈）甘草一兩（炙）黃柏二兩",
+  "comment": "右三味，以水四升，煮取一升半，去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "zhizi",
+      "weight": "shiwuge",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "huangbai",
+      "weight": "erliang"
+    }
+  ]
+}

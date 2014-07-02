@@ -1,0 +1,34 @@
+{
+  "title": "桂枝加大黃湯方",
+  "herbText": "桂枝三兩大黃二兩芍藥六兩甘草二兩（炙）生薑三兩（切）大棗十二枚（劈）",
+  "comment": "右六味，以水七升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

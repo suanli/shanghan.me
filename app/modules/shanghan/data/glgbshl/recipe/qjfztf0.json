@@ -1,0 +1,17 @@
+{
+  "title": "乾薑附子湯方",
+  "herbText": "乾薑一兩（炮）附子一枚（破八片，炮）",
+  "comment": "右二味，以水三升，煮取一升，去滓，頓服。",
+  "herbs": [
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang",
+      "comment": "（炮）"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（破八片，炮）"
+    }
+  ]
+}

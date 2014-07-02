@@ -1,0 +1,38 @@
+{
+  "title": "甘草瀉心湯方",
+  "herbText": "甘草四兩（炙）黃芩三兩乾薑三兩半夏半升（洗）人參三兩黃連一兩大棗十二枚（擘）",
+  "comment": "右七味，以水一斗，煮取六升，去滓，再煎取三升，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "siliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（擘）"
+    }
+  ]
+}

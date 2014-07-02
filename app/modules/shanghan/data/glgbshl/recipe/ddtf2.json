@@ -1,0 +1,25 @@
+{
+  "title": "抵當湯方",
+  "herbText": "水蛭三十個（熬）蝱蟲三十個（去翅足）桃仁三十個大黃三兩",
+  "comment": "右四味，以水五升，煮取三升，去滓，溫服一升，不下更服。",
+  "herbs": [
+    {
+      "herb": "shuizhi",
+      "weight": "sanshige",
+      "comment": "（熬）"
+    },
+    {
+      "herb": "mengchong",
+      "weight": "sanshige",
+      "comment": "（去翅足）"
+    },
+    {
+      "herb": "taoren",
+      "weight": "sanshige"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "sanliang"
+    }
+  ]
+}

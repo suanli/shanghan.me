@@ -1,0 +1,19 @@
+{
+  "title": "乾薑人參半夏丸方",
+  "herbText": "乾薑一兩人參一兩半夏二兩",
+  "comment": "右三味，末之，以生薑汁糊為丸，如梧桐子大，每服五丸，日三服，飲下。",
+  "herbs": [
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "erliang"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "葶藶栝蔞桔梗牡丹湯方",
+  "herbText": "葶藶三兩（熬）栝蔞實大者一枚（搗）桔梗三兩牡丹皮二兩",
+  "comment": "右四味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "tingli",
+      "weight": "sanliang",
+      "comment": "（熬）"
+    },
+    {
+      "herb": "gualoushi",
+      "weight_prefix": "大者",
+      "weight": "yimei",
+      "comment": "（搗）"
+    },
+    {
+      "herb": "jiegeng",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "mudanpi",
+      "weight": "erliang"
+    }
+  ]
+}

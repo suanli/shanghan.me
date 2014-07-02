@@ -1,0 +1,24 @@
+{
+  "title": "地黃黃柏黃連半夏湯方",
+  "herbText": "地黃半斤黃柏六兩黃連三兩半夏一升（洗）",
+  "comment": "右四味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "dihuang",
+      "weight": "banjin"
+    },
+    {
+      "herb": "huangbai",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "yisheng",
+      "comment": "（洗）"
+    }
+  ]
+}

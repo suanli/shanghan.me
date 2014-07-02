@@ -1,0 +1,31 @@
+{
+  "title": "茯苓澤瀉湯方",
+  "herbText": "茯苓半斤澤瀉四兩甘草二兩桂枝二兩白朮三兩生薑四兩",
+  "comment": "右六味，以水一斗，煮取三升，去滓。溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "banjin"
+    },
+    {
+      "herb": "zexie",
+      "weight": "siliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "siliang"
+    }
+  ]
+}

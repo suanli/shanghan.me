@@ -1,0 +1,19 @@
+{
+  "title": "當歸貝母苦參丸方",
+  "herbText": "當歸四兩貝母四兩苦參四兩",
+  "comment": "右三味，末之，煉蜜為丸，如小豆大，飲服三丸，日三服。",
+  "herbs": [
+    {
+      "herb": "danggui",
+      "weight": "siliang"
+    },
+    {
+      "herb": "beimu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "kucan",
+      "weight": "siliang"
+    }
+  ]
+}

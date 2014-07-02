@@ -1,0 +1,29 @@
+{
+  "title": "當歸附子湯方",
+  "herbText": "當歸四兩附子大者一枚（炮去皮，破八片）人參三兩黃連三兩黃柏三兩",
+  "comment": "右五味，以水六升，煮取三升，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "danggui",
+      "weight": "siliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight_prefix": "大者",
+      "weight": "yimei",
+      "comment": "（炮去皮，破八片）"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangbai",
+      "weight": "sanliang"
+    }
+  ]
+}

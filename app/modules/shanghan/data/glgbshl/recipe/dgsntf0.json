@@ -1,0 +1,37 @@
+{
+  "title": "當歸四逆湯方",
+  "herbText": "當歸三兩芍藥三兩桂枝三兩細辛三兩木通三兩甘草二兩（炙）大棗二十五枚（劈）",
+  "comment": "右七味，以水八升，煮取三升，去滓。溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "danggui",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "xixin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "mutong",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "ershiwumei",
+      "comment": "（劈）"
+    }
+  ]
+}

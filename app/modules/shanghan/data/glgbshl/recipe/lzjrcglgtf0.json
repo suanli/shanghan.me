@@ -1,0 +1,27 @@
+{
+  "title": "理中加人參栝蔞根湯方",
+  "herbText": "人參四兩白朮三兩甘草三兩乾薑三兩栝蔞根二兩",
+  "comment": "右五味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "rencan",
+      "weight": "siliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gualougen",
+      "weight": "erliang"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title": "四逆加吳茱萸黃連湯方",
+  "herbText": "附子一枚（生用，去皮，破八片）乾薑一兩半甘草二兩（炙）人參二兩吳茱萸半升黃連一兩",
+  "comment": "右六味，以水六升，煮取二升，去滓，溫服一升，日再服。",
+  "herbs": [
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（生用，去皮，破八片）"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliangban"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "wuzhuyu",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    }
+  ]
+}

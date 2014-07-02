@@ -1,0 +1,33 @@
+{
+  "title": "防己黃耆湯方",
+  "herbText": "防己二兩甘草一兩（炙）白朮一兩黃耆二兩生薑一兩大棗十二枚（擘）",
+  "comment": "右六味，以水一斗，煮取五升，去滓，再煎取三升，溫服一升，日三服。喘者，加麻黃五分；胃中不和者，加芍藥三分；氣上衝者，加桂枝三分；下有陳寒者，加細辛三分。服後當如蟲行皮中，從腰下如冰，後坐被上，又以一被繞之，溫令有微汗差。",
+  "herbs": [
+    {
+      "herb": "fangji",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "baishu",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huangqi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（擘）"
+    }
+  ]
+}

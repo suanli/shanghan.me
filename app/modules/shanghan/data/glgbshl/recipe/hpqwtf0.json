@@ -1,0 +1,35 @@
+{
+  "title": "厚朴七物湯方",
+  "herbText": "厚朴半斤甘草三兩大黃三兩枳實五枚桂枝二兩生薑五兩大棗十枚",
+  "comment": "右七味，以水一斗，煮取四升，去滓，溫服八合，日三服。",
+  "herbs": [
+    {
+      "herb": "houpo",
+      "weight": "banjin"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "wumei"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shimei"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "黃耆當歸湯方",
+  "herbText": "黃耆三兩當歸半兩",
+  "comment": "右二味，以水五升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "huangqi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "danggui",
+      "weight": "banliang"
+    }
+  ]
+}

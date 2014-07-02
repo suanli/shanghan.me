@@ -1,0 +1,23 @@
+{
+  "title": "大黃硝石湯方",
+  "herbText": "大黃四兩黃柏四兩芒硝四兩梔子十五枚",
+  "comment": "右四味，以水六升，先煮三味，取二升，去滓，納硝，更煮取一升，頓服。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "huangbai",
+      "weight": "siliang"
+    },
+    {
+      "herb": "mangxiao",
+      "weight": "siliang"
+    },
+    {
+      "herb": "zhizi",
+      "weight": "shiwumei"
+    }
+  ]
+}

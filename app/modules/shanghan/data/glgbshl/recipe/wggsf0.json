@@ -1,0 +1,23 @@
+{
+  "title": "王瓜根散方",
+  "herbText": "王瓜根三分芍藥三分桂枝三分䗪蟲三枚",
+  "comment": "右四味，杵為散，酒服方寸匙，日三服。",
+  "herbs": [
+    {
+      "herb": "wangguagen",
+      "weight": "sanfen"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanfen"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanfen"
+    },
+    {
+      "herb": "zhechong",
+      "weight": "sanmei"
+    }
+  ]
+}

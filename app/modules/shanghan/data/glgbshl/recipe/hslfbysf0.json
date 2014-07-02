@@ -1,0 +1,20 @@
+{
+  "title": "滑石亂髮白魚散方",
+  "herbText": "滑石一斤亂髮一斤（燒）白魚一斤",
+  "comment": "右三味，杵為散，飲服方寸匙，日三服。",
+  "herbs": [
+    {
+      "herb": "huashi",
+      "weight": "yijin"
+    },
+    {
+      "herb": "luanfa",
+      "weight": "yijin",
+      "comment": "（燒）"
+    },
+    {
+      "herb": "baiyu",
+      "weight": "yijin"
+    }
+  ]
+}

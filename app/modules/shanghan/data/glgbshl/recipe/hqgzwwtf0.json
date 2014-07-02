@@ -1,0 +1,27 @@
+{
+  "title": "黃耆桂枝五物湯方",
+  "herbText": "黃耆三兩桂枝三兩芍藥三兩生薑六兩大棗十二枚",
+  "comment": "右五味，以水六升，煮取二升。溫服七合，日三服。",
+  "herbs": [
+    {
+      "herb": "huangqi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei"
+    }
+  ]
+}

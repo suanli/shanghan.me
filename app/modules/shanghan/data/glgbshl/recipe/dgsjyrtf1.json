@@ -1,0 +1,19 @@
+{
+  "title": "當歸生薑羊肉湯方",
+  "herbText": "當歸三兩生薑五兩羊肉一斤",
+  "comment": "右三味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "danggui",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "yangrou",
+      "weight": "yijin"
+    }
+  ]
+}

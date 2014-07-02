@@ -1,0 +1,32 @@
+{
+  "title": "人參附子湯方",
+  "herbText": "人參二兩附子一枚乾薑二枚（炮）半夏半升阿膠二兩柏葉三兩",
+  "comment": "右六味，以水六升，煮取二升，去滓，納膠烊消。溫服一升，日再服。",
+  "herbs": [
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "ermei",
+      "comment": "（炮）"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "baiye",
+      "weight": "sanliang"
+    }
+  ]
+}

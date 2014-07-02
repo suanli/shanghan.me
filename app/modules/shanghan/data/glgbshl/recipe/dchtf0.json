@@ -1,0 +1,43 @@
+{
+  "title": "大柴胡湯方",
+  "herbText": "柴胡半斤黃芩三兩芍藥三兩半夏半升（洗）枳實四枚（炙）大黃二兩生薑五兩（切）大棗十二枚（劈）",
+  "comment": "右八味，以水一斗二升，煮取六升，去滓，再煎，溫服二升，日三服。",
+  "herbs": [
+    {
+      "herb": "chaihu",
+      "weight": "banjin"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "simei",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "wuliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "茯苓白朮戎鹽湯方",
+  "herbText": "茯苓半斤白朮二兩戎鹽二枚（彈丸大）",
+  "comment": "右三味，先以水一斗，煮二味，取三升，去滓，納戎鹽，更上微火一二沸化之，分溫三服。",
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "banjin"
+    },
+    {
+      "herb": "baishu",
+      "weight": "erliang"
+    },
+    {
+      "herb": "rongyan",
+      "weight": "ermei",
+      "comment": "（彈丸大）"
+    }
+  ]
+}

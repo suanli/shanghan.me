@@ -1,0 +1,20 @@
+{
+  "title": "甘草粉蜜湯方",
+  "herbText": "甘草二兩白粉一兩（即鉛粉）蜜四兩",
+  "comment": "右三味，以水三升，先煮甘草，取二升，去滓，納粉、蜜攪令和，煎如薄粥，溫服一升。差，止後服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "baifen",
+      "weight": "yiliang",
+      "comment": "（即鉛粉）"
+    },
+    {
+      "herb": "mi",
+      "weight": "siliang"
+    }
+  ]
+}

@@ -48,7 +48,7 @@ define(['angular', '../module'], function (ng) {
 						q.resolve();
 						return q.promise;
 					}
-					return get('modules/shanghan/data/shlglb/ch'+index+'/title.json')
+					return get('modules/shanghan/data/glgbshl/vol'+index+'/title.json')
 						.then(function (data){
 							chapter = data;
 						});
@@ -61,7 +61,7 @@ define(['angular', '../module'], function (ng) {
 						q.resolve();
 						return q.promise;
 					}
-					return get('modules/shanghan/data/shlglb/ch'+chapter+'/'+index+'.json')
+					return get('modules/shanghan/data/glgbshl/vol'+chapter+'/'+index+'.json')
 						.then(function (data){
 							items[index] = data;
 						});
@@ -74,7 +74,7 @@ define(['angular', '../module'], function (ng) {
 						q.resolve();
 						return q.promise;
 					}
-					return get('modules/shanghan/data/shlglb/herb/herb.json')
+					return get('modules/shanghan/data/glgbshl/herb/herbs.json')
 						.then(function (data){
 							herb = data;
 						});
@@ -87,7 +87,7 @@ define(['angular', '../module'], function (ng) {
 						q.resolve();
 						return q.promise;
 					}
-					return get('modules/shanghan/data/shlglb/herb/weight.json')
+					return get('modules/shanghan/data/glgbshl/herb/weights.json')
 						.then(function (data){
 							weight = data;
 						});
@@ -100,7 +100,7 @@ define(['angular', '../module'], function (ng) {
 						q.resolve();
 						return q.promise;
 					}
-					return get('modules/shanghan/data/shlglb/recipe/' + name + '.json')
+					return get('modules/shanghan/data/glgbshl/recipe/' + name + '.json')
 						.then(function (data){
 							recipes[name] = data;
 						});
@@ -111,24 +111,27 @@ define(['angular', '../module'], function (ng) {
 					{
 						var item = items[i];
 						if(item.recipe){
-							if(recipes[item.recipe]){
-								item.recipe = recipes[item.recipe];
-								for(var j in item.recipe.items)
-								{
-									var h = item.recipe.items[j];
-									if(herb[h.herb]){
-										h.herb = herb[h.herb].name;
-									} else{
-										// Error case, not this herb.
+							for(var o in item.recipe)
+							{
+								if(recipes[item.recipe[o]]){
+									item.recipe[o] = recipes[item.recipe[o]];
+									for(var j in item.recipe[o].herbs)
+									{
+										var h = item.recipe[o].herbs[j];
+										if(herb[h.herb]){
+											h.herb = herb[h.herb];
+										} else{
+											// Error case, not this herb.
+										}
+										if(weight[h.weight]){
+											h.weight = weight[h.weight];
+										} else{
+											// Error case, not this herb.
+										}
 									}
-									if(weight[h.weight]){
-										h.weight = weight[h.weight].handai;
-									} else{
-										// Error case, not this herb.
-									}
+								} else{
+										//Error case, not get recipe yet.
 								}
-							} else{
-									//Error case, not get recipe yet.
 							}
 						}
 					}
@@ -159,6 +162,16 @@ define(['angular', '../module'], function (ng) {
 						dshQuery.getTitle(6),
 						dshQuery.getItem(6, 12),
 						dshQuery.getItem(6, 13),
+						dshQuery.getItem(6, 14),
+						dshQuery.getItem(6, 15),
+						dshQuery.getItem(6, 16),
+						dshQuery.getItem(6, 17),
+						dshQuery.getItem(6, 18),
+						dshQuery.getItem(6, 19),
+						dshQuery.getItem(6, 20),
+						dshQuery.getItem(6, 21),
+						dshQuery.getItem(6, 22),
+						dshQuery.getItem(6, 23),
 						dshQuery.getHerb(),
 						dshQuery.getWeight()
 					])

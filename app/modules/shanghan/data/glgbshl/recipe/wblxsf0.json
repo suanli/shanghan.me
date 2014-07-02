@@ -1,0 +1,47 @@
+{
+  "title": "王不留行散方",
+  "herbText": "王不留行十分（燒）蒴藋細葉十分（燒）桑根白皮十分（燒）甘草十八分黃芩二分蜀椒三分（去目）厚朴二分乾薑二分芍藥二分",
+  "comment": "右九味，為散，飲服方寸匙。小瘡即粉之，大瘡但服之，產後亦可服。",
+  "herbs": [
+    {
+      "herb": "wangbuliuxing",
+      "weight": "shifen",
+      "comment": "（燒）"
+    },
+    {
+      "herb": "shuodiaoxiye",
+      "weight": "shifen",
+      "comment": "（燒）"
+    },
+    {
+      "herb": "sanggenbaipi",
+      "weight": "shifen",
+      "comment": "（燒）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "shibafen"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "erfen"
+    },
+    {
+      "herb": "shujiao",
+      "weight": "sanfen",
+      "comment": "（去目）"
+    },
+    {
+      "herb": "houpo",
+      "weight": "erfen"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "erfen"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "erfen"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "人參白朮芍藥甘草湯方",
+  "herbText": "人參三兩白朮三兩芍藥三兩甘草二兩（炙）",
+  "comment": "右四味，以水五升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

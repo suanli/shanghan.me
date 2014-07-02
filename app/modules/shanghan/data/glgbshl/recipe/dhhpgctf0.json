@@ -1,0 +1,19 @@
+{
+  "title": "大黃厚朴甘草湯方",
+  "herbText": "大黃四兩厚朴六兩甘草三兩",
+  "comment": "右三味，以水五升，煮取二升，服一升，得大便利，勿再服。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "houpo",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    }
+  ]
+}

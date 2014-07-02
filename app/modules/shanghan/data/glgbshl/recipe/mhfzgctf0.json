@@ -1,0 +1,21 @@
+{
+  "title": "麻黃附子甘草湯方",
+  "herbText": "麻黃二兩附子一枚（炮去皮，破八片）甘草二兩（炙）",
+  "comment": "右三味，以水七升，先煮麻黃一二沸，去上沫，納諸藥，煮取三升，去滓。溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮去皮，破八片）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

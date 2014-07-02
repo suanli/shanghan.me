@@ -1,0 +1,21 @@
+{
+  "title": "茵陳蒿湯方",
+  "herbText": "茵陳蒿六兩梔子十四枚（劈）大黃二兩（去皮）",
+  "comment": "右三味，以水一斗二升，先煮茵陳，減六升，納二味，煮取三升，去滓，分溫三服，小便當利，尿如皂莢汁狀，色正赤，一宿病減，黃從小便去也。",
+  "herbs": [
+    {
+      "herb": "yinchenhao",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "zhizi",
+      "weight": "shisimei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "erliang",
+      "comment": "（去皮）"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "黃連黃芩麥門冬桔梗甘草湯方",
+  "herbText": "黃連一兩（半）黃芩三兩麥門冬二兩桔梗三兩甘草二兩（炙）",
+  "comment": "右五味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs_comment": [
+    {
+      "position": 6,
+      "comment": "「（半）」：廣西本有，會通本無，白雲閣本有「半」，但沒有括弧。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "yiliang",
+      "comment": "（半）"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "maimendong",
+      "weight": "erliang"
+    },
+    {
+      "herb": "jiegeng",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

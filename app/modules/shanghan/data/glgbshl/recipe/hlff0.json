@@ -1,0 +1,15 @@
+{
+  "title": "黃連粉方",
+  "herbText": "黃連十分甘草十分",
+  "comment": "右二味，搗為末，飲服方寸匙，並粉其瘡上。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "shifen"
+    },
+    {
+      "herb": "gancao",
+      "weight": "shifen"
+    }
+  ]
+}

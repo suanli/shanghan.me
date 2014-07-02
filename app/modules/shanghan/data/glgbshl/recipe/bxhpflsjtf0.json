@@ -1,0 +1,33 @@
+{
+  "title": "半夏厚朴茯苓生薑湯方",
+  "herbText": "半夏一升厚朴三兩茯苓四兩生薑五兩蘇葉二兩",
+  "comment": "右五味，以水一斗，煮取四升，去滓，分溫四服，日三服，夜一服。苦痛者，去蘇葉，加桔梗二兩。",
+  "title_comment": [
+    {
+      "position": 9,
+      "comment": "白雲閣本與會通本中，此方中無「蘇葉」一味，且下文中「分溫四服」作「溫服一升」，下文中「苦痛者，去蘇葉，加桔梗二兩」為「痛者加桔梗一兩」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "banxia",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "houpo",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "suye",
+      "weight": "erliang"
+    }
+  ]
+}

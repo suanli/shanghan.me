@@ -1,0 +1,23 @@
+{
+  "title": "白頭翁湯方",
+  "herbText": "白頭翁二兩黃連三兩黃柏三兩秦皮三兩",
+  "comment": "右四味，以水七升，煮取二升，去滓。溫服一升；不愈，更服一升。",
+  "herbs": [
+    {
+      "herb": "baitouweng",
+      "weight": "erliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangbai",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "qinpi",
+      "weight": "sanliang"
+    }
+  ]
+}

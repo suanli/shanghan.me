@@ -1,0 +1,25 @@
+{
+  "title": "茯苓甘草湯方",
+  "herbText": "茯苓二兩桂枝二兩甘草一兩（炙）生薑三兩（切）",
+  "comment": "右四味，以水四升，煮取二升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "erliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    }
+  ]
+}

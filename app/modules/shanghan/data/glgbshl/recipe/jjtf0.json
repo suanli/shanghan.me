@@ -1,0 +1,43 @@
+{
+  "title": "膠薑湯方",
+  "herbText": "阿膠三兩地黃六兩芎藭二兩生薑三兩（切）當歸三兩芍藥三兩甘草二兩（炙）",
+  "comment": "右七味，以水五升，清酒三升，先煮六味，取三升，去滓，納膠烊消，溫服一升，日三服。",
+  "herbs_comment": [
+    {
+      "position": 34,
+      "comment": "白雲閣本與會通本無「炙」字。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "ajiao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "xiongqiong",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "danggui",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    }
+  ]
+}

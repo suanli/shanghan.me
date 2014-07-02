@@ -1,0 +1,26 @@
+{
+  "title": "枳實厚朴白朮甘草湯方",
+  "herbText": "枳實四枚（炙）厚朴二兩（炙去皮）白朮三兩甘草一兩（炙）",
+  "comment": "右四味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "zhishi",
+      "weight": "simei",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "houpo",
+      "weight": "erliang",
+      "comment": "（炙去皮）"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    }
+  ]
+}

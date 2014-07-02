@@ -1,0 +1,20 @@
+{
+  "title": "白通湯方",
+  "herbText": "蔥白四莖乾薑一兩附子一枚（生用，去皮，破八片）",
+  "comment": "右三味，以水三升，煮取一升，去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "congbai",
+      "weight": "sijing"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（生用，去皮，破八片）"
+    }
+  ]
+}

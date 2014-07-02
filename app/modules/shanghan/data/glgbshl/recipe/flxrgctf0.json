@@ -1,0 +1,20 @@
+{
+  "title": "茯苓杏仁甘草湯方",
+  "herbText": "茯苓二兩杏仁五十個甘草一兩（炙）",
+  "comment": "右三味，以水一斗，煮取五升，去滓，溫服一升，日三服，不差更服。",
+  "herbs": [
+    {
+      "herb": "fuling",
+      "weight": "erliang"
+    },
+    {
+      "herb": "xingren",
+      "weight": "wushige"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    }
+  ]
+}

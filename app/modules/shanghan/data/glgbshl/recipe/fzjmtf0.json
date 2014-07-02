@@ -1,0 +1,28 @@
+{
+  "title": "附子粳米湯方",
+  "herbText": "附子一枚（炮）半夏半升甘草一兩大棗十枚粳米半升",
+  "comment": "右五味，以水八升，煮米熟湯成，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮）"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shimei"
+    },
+    {
+      "herb": "jingmi",
+      "weight": "bansheng"
+    }
+  ]
+}

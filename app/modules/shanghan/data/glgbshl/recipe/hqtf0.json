@@ -1,0 +1,24 @@
+{
+  "title": "黃芩湯方",
+  "herbText": "黃芩三兩芍藥二兩甘草二兩大棗十二枚（劈）",
+  "comment": "右四味，以水一斗，煮取三升，去滓，溫服一升，日再服，夜一服。",
+  "herbs": [
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei",
+      "comment": "（劈）"
+    }
+  ]
+}

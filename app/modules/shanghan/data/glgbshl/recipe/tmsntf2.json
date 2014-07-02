@@ -1,0 +1,26 @@
+{
+  "title": "通脈四逆湯方",
+  "herbText": "甘草二兩（炙）附子大者一枚（生用）乾薑三兩人參二兩",
+  "comment": "右四味，以水三升，煮取一升二合，去滓，分溫再服，其脈出者愈。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "fuzi",
+      "weight_prefix": "大者",
+      "weight": "yimei",
+      "comment": "（生用）"
+    },
+    {
+      "herb": "qianjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    }
+  ]
+}

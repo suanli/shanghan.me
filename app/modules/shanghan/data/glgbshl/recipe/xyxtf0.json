@@ -1,0 +1,20 @@
+{
+  "title": "下瘀血湯方",
+  "herbText": "大黃三兩桃仁二十枚䗪蟲二十枚（去足）",
+  "comment": "右三味，末之，煉蜜和丸，以酒一升，水一升，煮取八合，頓服之，血下如豚肝愈。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "taoren",
+      "weight": "ershimei"
+    },
+    {
+      "herb": "zhechong",
+      "weight": "ershimei",
+      "comment": "（去足）"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "瀉心湯方",
+  "herbText": "大黃二兩黃連一兩",
+  "comment": "右二味，以水三升，煮取一升，去滓，頓服之。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    }
+  ]
+}

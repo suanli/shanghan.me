@@ -1,0 +1,30 @@
+{
+  "title": "百合滑石代赭湯方",
+  "herbText": "百合七枚滑石三兩代赭石如彈丸大（碎，棉裹）",
+  "comment": "右三味，以水先洗，煮百合如前法，別以泉水二升，煮二味，取一升，去滓，合和，重煎，取一升五合，分溫再服。",
+  "herbs_comment": [
+    {
+      "position": 4,
+      "comment": "白雲閣本與會通本此處有「（擘）」。"
+    },
+    {
+      "position": 8,
+      "comment": "白雲閣本與會通本此處有「（碎，綿裹）」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "baihe",
+      "weight": "qimei"
+    },
+    {
+      "herb": "huashi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "daizheshirudanwanda",
+      "weight_prefix": "（碎，棉裹）",
+      "weight": ""
+    }
+  ]
+}

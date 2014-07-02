@@ -1,0 +1,24 @@
+{
+  "title": "附子瀉心湯方",
+  "herbText": "大黃二兩黃連一兩黃芩一兩附子一枚（炮去皮，破，別煮取汁）",
+  "comment": "右四味，切三味，以麻沸湯二升漬之，須臾絞去滓，納附子汁，分溫再服。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "erliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮去皮，破，別煮取汁）"
+    }
+  ]
+}

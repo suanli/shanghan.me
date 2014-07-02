@@ -1,0 +1,28 @@
+{
+  "title": "柴胡黃芩芍藥半夏甘草湯方",
+  "herbText": "柴胡四兩黃芩三兩芍藥二兩甘草二兩（炙）半夏二兩",
+  "comment": "右五味，以水五升，煮取三升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "chaihu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "banxia",
+      "weight": "erliang"
+    }
+  ]
+}

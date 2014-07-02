@@ -1,0 +1,35 @@
+{
+  "title": "白虎加人參湯方",
+  "herbText": "知母六兩石膏一斤碎（棉裹）甘草二兩（炙）粳米六合人參三兩",
+  "comment": "右五味，以水一斗，煮米熟湯成，去滓，溫服一升，日三服。",
+  "herbs_comment": [
+    {
+      "position": 8,
+      "comment": "廣西兩本此處皆作「一兩」，但卷六、卷八、卷九皆有此方，皆作「一斤」，此處明顯有誤，故改作「一斤」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "zhimu",
+      "weight": "liuliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "yijin",
+      "comment": "碎（棉裹）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "jingmi",
+      "weight": "liuhe"
+    },
+    {
+      "herb": "rencan",
+      "weight": "sanliang"
+    }
+  ]
+}

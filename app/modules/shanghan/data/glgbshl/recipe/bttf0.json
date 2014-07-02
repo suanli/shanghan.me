@@ -1,0 +1,44 @@
+{
+  "title": "奔豚湯方",
+  "herbText": "甘草二兩（炙）芎藭二兩當歸二兩黃芩二兩芍藥二兩半夏四兩生薑四兩葛根五兩桂枝三兩",
+  "comment": "右九味，以水二斗，煮取五升。溫服一升，日三服，夜二服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "xiongqiong",
+      "weight": "erliang"
+    },
+    {
+      "herb": "danggui",
+      "weight": "erliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "siliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "gegen",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    }
+  ]
+}

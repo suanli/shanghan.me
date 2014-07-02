@@ -1,0 +1,25 @@
+{
+  "title": "桂枝生薑枳實湯方",
+  "herbText": "桂枝三兩生薑三兩枳實五枚",
+  "comment": "右三味，以水六升，煮取三升，去滓，分溫三服。",
+  "herbs_comment": [
+    {
+      "position": 4,
+      "comment": "「三兩」：白雲閣本與會通本作「五兩」。"
+    }
+  ],
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "wumei"
+    }
+  ]
+}

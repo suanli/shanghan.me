@@ -1,0 +1,22 @@
+{
+  "title": "小承氣湯方",
+  "herbText": "大黃四兩（酒洗）厚朴二兩（炙去皮）枳實三枚（炙）",
+  "comment": "右三味，以水四升，煮取一升二合，去滓分溫再服，初服更衣者，停後服，不爾者，盡飲之。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "siliang",
+      "comment": "（酒洗）"
+    },
+    {
+      "herb": "houpo",
+      "weight": "erliang",
+      "comment": "（炙去皮）"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "sanmei",
+      "comment": "（炙）"
+    }
+  ]
+}

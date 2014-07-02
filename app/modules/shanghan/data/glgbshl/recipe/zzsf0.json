@@ -1,0 +1,16 @@
+{
+  "title": "蜘蛛散方",
+  "herbText": "蜘蛛十四枚（熬）桂枝一兩",
+  "comment": "右二味，為散，以白飲和服方寸匙，日再服。蜜丸亦可。",
+  "herbs": [
+    {
+      "herb": "zhizhu",
+      "weight": "shisimei",
+      "comment": "（熬）"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "yiliang"
+    }
+  ]
+}

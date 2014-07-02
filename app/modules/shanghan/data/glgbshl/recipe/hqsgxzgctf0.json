@@ -1,0 +1,26 @@
+{
+  "title": "黃芩石膏杏子甘草湯方",
+  "herbText": "黃芩三兩石膏半斤（碎）杏仁十四枚（去皮尖）甘草一兩（炙）",
+  "comment": "右四味，以水五升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "banjin",
+      "comment": "（碎）"
+    },
+    {
+      "herb": "xingren",
+      "weight": "shisimei",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    }
+  ]
+}

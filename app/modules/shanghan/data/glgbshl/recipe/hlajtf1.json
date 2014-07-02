@@ -1,0 +1,27 @@
+{
+  "title": "黃連阿膠湯方",
+  "herbText": "黃連四兩黃芩二兩芍藥二兩阿膠三兩雞子黃二枚",
+  "comment": "右五味，以水六升，先煮三物，取二升，去滓，納膠烊盡，小冷，納雞子黃，攪令相得。溫服七合，日三服。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "siliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "jizihuang",
+      "weight": "ermei"
+    }
+  ]
+}

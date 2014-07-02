@@ -1,0 +1,29 @@
+{
+  "title": "黃連阿膠半夏桃仁茯苓湯方",
+  "herbText": "黃連三兩阿膠二兩半夏半升（洗）桃仁二十枚（去皮尖）茯苓三兩",
+  "comment": "右五味，以水五升，先煮四味，取二升，去滓，納膠烊消，溫服一升，日再服。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "taoren",
+      "weight": "ershimei",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    }
+  ]
+}

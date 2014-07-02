@@ -1,0 +1,29 @@
+{
+  "title": "桂枝茯苓枳實芍藥甘草湯方",
+  "herbText": "桂枝三兩（去皮）茯苓二兩枳實二兩芍藥三兩甘草一兩（炙）",
+  "comment": "右五味，以水六升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "fuling",
+      "weight": "erliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang",
+      "comment": "（炙）"
+    }
+  ]
+}

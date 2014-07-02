@@ -1,0 +1,19 @@
+{
+  "title": "旋覆花湯方",
+  "herbText": "旋覆花三兩蔥十四莖新絳少許",
+  "comment": "右三味，以水三升，煮取一升，頓服。",
+  "herbs": [
+    {
+      "herb": "xuanfuhua",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "cong",
+      "weight": "shisijing"
+    },
+    {
+      "herb": "xinjiang",
+      "weight": "shaoxu"
+    }
+  ]
+}

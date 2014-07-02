@@ -1,0 +1,25 @@
+{
+  "title": "黃連黃芩半夏豬膽汁湯方",
+  "herbText": "黃連二兩黃芩三兩半夏一升豬膽大者一枚（取汁）",
+  "comment": "右四味，以水六升，先煮三味，取三升，去滓，納膽汁和合，令相得，分溫再服。",
+  "herbs": [
+    {
+      "herb": "huanglian",
+      "weight": "erliang"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "yisheng"
+    },
+    {
+      "herb": "zhudan",
+      "weight_prefix": "大者",
+      "weight": "yimei",
+      "comment": "（取汁）"
+    }
+  ]
+}

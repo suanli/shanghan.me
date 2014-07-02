@@ -1,0 +1,15 @@
+{
+  "title": "桔梗湯方",
+  "herbText": "桔梗一兩甘草二兩",
+  "comment": "右二味，以水三升，煮取二升，去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "jiegeng",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    }
+  ]
+}

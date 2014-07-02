@@ -1,0 +1,25 @@
+{
+  "title": "大陷胸丸方",
+  "herbText": "大黃半斤葶藶半斤（熬）芒硝半斤杏仁半斤（去皮尖，熬）",
+  "comment": "右四味，搗篩二味，納杏仁、芒硝，合研如脂，和散，取如彈丸一枚，別搗甘遂末一方寸匙，白蜜二合，水二升，煮取一升，去滓，溫頓服之，一宿乃下。如不下，更服，取下為度。禁忌如藥法。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "banjin"
+    },
+    {
+      "herb": "tingli",
+      "weight": "banjin",
+      "comment": "（熬）"
+    },
+    {
+      "herb": "mangxiao",
+      "weight": "banjin"
+    },
+    {
+      "herb": "xingren",
+      "weight": "banjin",
+      "comment": "（去皮尖，熬）"
+    }
+  ]
+}

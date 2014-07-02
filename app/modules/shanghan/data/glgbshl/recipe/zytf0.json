@@ -1,0 +1,36 @@
+{
+  "title": "竹葉湯方",
+  "herbText": "竹葉一把葛根三兩桔梗一兩人參一兩甘草一兩生薑五兩大棗十五枚（劈）",
+  "comment": "右七味，以水八升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "zhuye",
+      "weight": "yiba"
+    },
+    {
+      "herb": "gegen",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "jiegeng",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "wuliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiwumei",
+      "comment": "（劈）"
+    }
+  ]
+}

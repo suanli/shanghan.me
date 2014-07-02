@@ -1,0 +1,36 @@
+{
+  "title": "桂枝龍骨牡蠣湯方",
+  "herbText": "桂枝三兩芍藥三兩甘草二兩（炙）生薑三兩大棗十二枚龍骨三兩牡蠣三兩",
+  "comment": "右七味，以水七升，煮取三升，去滓，分溫三服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shiermei"
+    },
+    {
+      "herb": "longgu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "muli",
+      "weight": "sanliang"
+    }
+  ]
+}

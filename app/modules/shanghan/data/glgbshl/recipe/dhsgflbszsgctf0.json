@@ -1,0 +1,32 @@
+{
+  "title": "大黃石膏茯苓白朮枳實甘草湯方",
+  "herbText": "大黃四兩石膏一斤茯苓三兩白朮四兩枳實三兩甘草三兩（炙）",
+  "comment": "右六味，以水八升，煮取五升，溫分三服。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "yijin"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "zhishi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang",
+      "comment": "（炙）"
+    }
+  ]
+}

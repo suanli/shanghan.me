@@ -1,0 +1,44 @@
+{
+  "title": "炙甘草湯方",
+  "herbText": "甘草四兩（炙）桂枝三兩麥門冬半升麻仁半升地黃一斤阿膠二兩人參二兩生薑三兩大棗三十枚",
+  "comment": "右九味，以酒七升，水八升，先煮八味，取三升，去滓，納膠消盡，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "gancao",
+      "weight": "siliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "maimendong",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "maren",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "dihuang",
+      "weight": "yijin"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "erliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "erliang"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "sanshimei"
+    }
+  ]
+}

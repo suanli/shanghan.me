@@ -1,0 +1,24 @@
+{
+  "title": "梔子湯方",
+  "herbText": "梔子十六枚（劈）黃芩三兩半夏半斤甘草二兩",
+  "comment": "右四味，以水四升，先煮梔子，取二升半，去滓，納三味，煮取一升，去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "zhizi",
+      "weight": "shiliumei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "huangqin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "banjin"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang"
+    }
+  ]
+}

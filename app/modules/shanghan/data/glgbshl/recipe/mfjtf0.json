@@ -1,0 +1,23 @@
+{
+  "title": "木防己湯方",
+  "herbText": "木防己三兩石膏雞子大十二枚桂枝二兩人參四兩",
+  "comment": "右四味，以水六升，煮取二升，去滓，分溫再服。",
+  "herbs": [
+    {
+      "herb": "mufangji",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shigao",
+      "weight": "jizidashiermei"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "siliang"
+    }
+  ]
+}

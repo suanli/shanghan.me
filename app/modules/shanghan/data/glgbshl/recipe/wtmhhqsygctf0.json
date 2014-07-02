@@ -1,0 +1,28 @@
+{
+  "title": "烏頭麻黃黃耆芍藥甘草湯方",
+  "herbText": "烏頭五枚（切）麻黃三兩黃耆三兩芍藥三兩甘草三兩",
+  "comment": "右五味，先以蜜二升煮烏頭，取一升，去滓，別以水三升煮四味，取一升，去滓，納蜜再煎一二沸，服七合，不知盡服之。",
+  "herbs": [
+    {
+      "herb": "wutou",
+      "weight": "wumei",
+      "comment": "（切）"
+    },
+    {
+      "herb": "mahuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "huangqi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "sanliang"
+    }
+  ]
+}

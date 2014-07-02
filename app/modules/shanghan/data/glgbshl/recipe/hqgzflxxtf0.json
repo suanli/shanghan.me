@@ -1,0 +1,23 @@
+{
+  "title": "黃耆桂枝茯苓細辛湯方",
+  "herbText": "黃耆三兩桂枝二兩茯苓三兩細辛一兩",
+  "comment": "右四味，以水五升，煮取三升，去滓，溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "huangqi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "xixin",
+      "weight": "yiliang"
+    }
+  ]
+}

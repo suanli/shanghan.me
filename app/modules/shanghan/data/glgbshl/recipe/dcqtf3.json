@@ -1,0 +1,26 @@
+{
+  "title": "大承氣湯方",
+  "herbText": "枳實五枚（炙）厚朴半斤（去皮，炙用）大黃四兩（洗）芒硝三合",
+  "comment": "右四味，以水一斗，先煮二味，取五升，去滓，納大黃，更煮取二升，去滓，納芒硝，更上火令一二沸，分溫再服，一服得利，止後服。",
+  "herbs": [
+    {
+      "herb": "zhishi",
+      "weight": "wumei",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "houpo",
+      "weight": "banjin",
+      "comment": "（去皮，炙用）"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "siliang",
+      "comment": "（洗）"
+    },
+    {
+      "herb": "mangxiao",
+      "weight": "sanhe"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "木防己去石膏加茯苓芒硝湯方",
+  "herbText": "木防己二兩桂枝二兩茯苓四兩人參四兩芒硝三合",
+  "comment": "右四味，以水六升，煮取二升，去滓，納芒硝，再微煎，分溫再服，微利則愈。",
+  "herbs": [
+    {
+      "herb": "mufangji",
+      "weight": "erliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    },
+    {
+      "herb": "rencan",
+      "weight": "siliang"
+    },
+    {
+      "herb": "mangxiao",
+      "weight": "sanhe"
+    }
+  ]
+}

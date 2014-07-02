@@ -1,0 +1,27 @@
+{
+  "title": "大黃牡丹湯方",
+  "herbText": "大黃四兩牡丹一兩桃仁五十個冬瓜子半升芒硝三合",
+  "comment": "右五味，以水六升，煮取一升，去滓，頓服之。有膿者當下膿，無膿者當下血。",
+  "herbs": [
+    {
+      "herb": "dahuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "mudan",
+      "weight": "yiliang"
+    },
+    {
+      "herb": "taoren",
+      "weight": "wushige"
+    },
+    {
+      "herb": "dongguazi",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "mangxiao",
+      "weight": "sanhe"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "射干麻黃湯方",
+  "herbText": "射干三兩麻黃三兩半夏半升五味子半升生薑四兩細辛三兩大棗七枚",
+  "comment": "右七味，以水一斗二升，先煮麻黃，去上沫，納諸藥，煮取三升，分溫三服。",
+  "herbs": [
+    {
+      "herb": "yegan",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "mahuang",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "banxia",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "wuweizi",
+      "weight": "bansheng"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "xixin",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "dazao",
+      "weight": "qimei"
+    }
+  ]
+}

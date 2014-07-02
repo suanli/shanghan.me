@@ -1,0 +1,31 @@
+{
+  "title": "當歸芍藥散方",
+  "herbText": "當歸三兩芍藥一斤茯苓四兩白朮四兩澤瀉半斤芎藭三兩",
+  "comment": "右六味，杵為散，取方寸匙，溫酒和，日三服。",
+  "herbs": [
+    {
+      "herb": "danggui",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "shaoyao",
+      "weight": "yijin"
+    },
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "zexie",
+      "weight": "banjin"
+    },
+    {
+      "herb": "xiongqiong",
+      "weight": "sanliang"
+    }
+  ]
+}

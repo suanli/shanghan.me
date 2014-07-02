@@ -1,0 +1,22 @@
+{
+  "title": "枳實梔子豉湯方",
+  "herbText": "枳實三枚（炙）梔子十四枚（劈）香豉一升（棉裹）",
+  "comment": "右三味，以清漿水七升，空煮取四升，納枳實、梔子煮取二升，納香豉更煮五六沸，去滓，溫分再服，覆令微似汗。",
+  "herbs": [
+    {
+      "herb": "zhishi",
+      "weight": "sanmei",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "zhizi",
+      "weight": "shisimei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "xiangchi",
+      "weight": "yisheng",
+      "comment": "（棉裹）"
+    }
+  ]
+}

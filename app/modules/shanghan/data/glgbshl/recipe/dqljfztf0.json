@@ -1,0 +1,46 @@
+{
+  "title": "大青龍加附子湯方",
+  "herbText": "麻黃六兩（去節）桂枝二兩（去皮）甘草二兩（炙）杏仁四十枚（去皮尖）生薑三兩（切）大棗十枚（劈）石膏如雞子大附子一枚（炮去皮，破八片）",
+  "comment": "右八味，以水九升，先煮麻黃減二升，去上沫，納諸藥，煮取三升，去滓，溫服一升，取微似汗，汗出多者溫粉粉之，一服汗者，停後服；若復服，汗多亡陽，遂虛，惡風、煩躁不得眠也。",
+  "herbs": [
+    {
+      "herb": "mahuang",
+      "weight": "liuliang",
+      "comment": "（去節）"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang",
+      "comment": "（去皮）"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "xingren",
+      "weight": "sishimei",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "shengjiang",
+      "weight": "sanliang",
+      "comment": "（切）"
+    },
+    {
+      "herb": "dazao",
+      "weight": "shimei",
+      "comment": "（劈）"
+    },
+    {
+      "herb": "shigao",
+      "weight": "rujizida"
+    },
+    {
+      "herb": "fuzi",
+      "weight": "yimei",
+      "comment": "（炮去皮，破八片）"
+    }
+  ]
+}

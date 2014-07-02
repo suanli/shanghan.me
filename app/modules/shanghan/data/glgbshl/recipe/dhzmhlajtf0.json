@@ -1,0 +1,23 @@
+{
+  "title": "地黃知母黃連阿膠湯方",
+  "herbText": "地黃八兩知母四兩黃連三兩阿膠一兩",
+  "comment": "右四味，以水一斗，先煮三味，取三升，去滓，納膠烊消。溫服一升，日三服。",
+  "herbs": [
+    {
+      "herb": "dihuang",
+      "weight": "baliang"
+    },
+    {
+      "herb": "zhimu",
+      "weight": "siliang"
+    },
+    {
+      "herb": "huanglian",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "ajiao",
+      "weight": "yiliang"
+    }
+  ]
+}

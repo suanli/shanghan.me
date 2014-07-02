@@ -1,0 +1,29 @@
+{
+  "title": "桃仁承氣湯方",
+  "herbText": "桃仁五十個（去皮尖）大黃四兩桂枝二兩甘草二兩（炙）芒硝二兩",
+  "comment": "右五味，以水七升，煮四味，取二升，去滓，納芒硝，更上火微沸，下火，先食溫服五合，日三服，當微利。",
+  "herbs": [
+    {
+      "herb": "taoren",
+      "weight": "wushige",
+      "comment": "（去皮尖）"
+    },
+    {
+      "herb": "dahuang",
+      "weight": "siliang"
+    },
+    {
+      "herb": "guizhi",
+      "weight": "erliang"
+    },
+    {
+      "herb": "gancao",
+      "weight": "erliang",
+      "comment": "（炙）"
+    },
+    {
+      "herb": "mangxiao",
+      "weight": "erliang"
+    }
+  ]
+}

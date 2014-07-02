@@ -1,0 +1,23 @@
+{
+  "title": "桂枝茯苓白朮細辛湯方",
+  "herbText": "桂枝三兩茯苓四兩白朮三兩細辛二兩",
+  "comment": "右四味，以水六升，煮取二升，去滓，溫服一升，日再服。",
+  "herbs": [
+    {
+      "herb": "guizhi",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "fuling",
+      "weight": "siliang"
+    },
+    {
+      "herb": "baishu",
+      "weight": "sanliang"
+    },
+    {
+      "herb": "xixin",
+      "weight": "erliang"
+    }
+  ]
+}
