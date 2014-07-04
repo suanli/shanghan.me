@@ -1,4 +1,4 @@
-define(['angular', '../module'], function (ng) {
+define(['angular', 'ui.bootstrap', '../module'], function (ng) {
   console.log("shanghan controller");
   'use strict';
 
@@ -157,7 +157,12 @@ define(['angular', '../module'], function (ng) {
 			'$q',
 			'dshQuery',
 			function ($scope, $q, dshQuery) {
-
+				$scope.itemsPerPage = 1;
+				$scope.totalItems = 17;
+				$scope.currentPage = 1;
+				$scope.pageChanged = function() {
+					console.log('Page changed to: ' + $scope.currentPage);
+				};
 				$q.all([
 						dshQuery.getTitle(6),
 						dshQuery.getItem(6, 12),

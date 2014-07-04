@@ -18,7 +18,7 @@ require.config({
     ngSanitize: '../components/angular-sanitize/angular-sanitize',
     'http-auth-interceptor': '../components/angular-http-auth/src/http-auth-interceptor',
     bootstrap: '../scripts/bootstrap',
-	  angular_bootstrap: '../components/angular-ui-bootstrap/dist/ui-bootstrap-0.10.0'
+	  angular_bootstrap: '../components/angular-bootstrap/ui-bootstrap'
   },
   shim: {
     angular: {
