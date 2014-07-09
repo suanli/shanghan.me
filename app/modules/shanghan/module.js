@@ -10,14 +10,16 @@ define(['angular', 'angular_bootstrap'], function (ng) {
   ng.module('shanghan.services', []);
   ng.module('shanghan.factories', []);
   ng.module('shanghan.directives', []);
+	ng.module('shanghan.filters', []);
 
   var module = ng.module('shanghan', [
 	  'ui.bootstrap',
     'cs_common',
     'shanghan.controllers',
-    'shanghan.providers',
+    //'shanghan.providers',
     'shanghan.services',
-    'shanghan.factories',
+    //'shanghan.factories',
+	  'shanghan.filters',
     'shanghan.directives'
   ]);
 

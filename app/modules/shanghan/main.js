@@ -6,10 +6,11 @@ define([
   'angular',
 	'bootstrap',
 	'angular_bootstrap',
-  //'./services/shanghan_service',
-  //'./directives/shanghan_directive',
+  './services/shanghan_service',
+  './directives/shanghan_directive',
   //'./factories/shanghan_factory',
   './controllers/shanghan_controller',
+	'./filters/shanghan_filter',
   './module'
 
 ], function() {

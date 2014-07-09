@@ -1,18 +1,32 @@
 define(['angular', '../module'], function (ng) {
-  console.log("frontend_example directive");
-  'use strict';
+	console.log("shanghan directive");
+	'use strict';
 
-  ng.module('shanghan.directives')
-  .directive('SSDirective', function() {
-    var link = function($scope, $element, $attrs, ctrl) {
-      console.log( 'Shanghan Directive' );
-    };
-
-    return {
-      require: 'ngModel',
-      link: link
-    };
-
-  });
+	ng.module('shanghan.directives')
+		.constant('templateConfig', {
+			path: "modules/shanghan/template/"
+		})
+		.directive('shHerb', ['templateConfig', function (templateConfig) {
+			console.log("shanghan directive shHerb");
+			return {
+				restrict: 'E',
+				templateUrl: templateConfig.path + 'herb.html',
+				scope: {
+					herb: '='
+				}
+				};
+			}
+		])
+	.directive('shRecipe', ['templateConfig', function (templateConfig) {
+		console.log("shanghan directive shRecipe");
+		return {
+			restrict: 'E',
+			templateUrl: templateConfig.path + 'recipe.html',
+			scope: {
+				recipe: '='
+			}
+		};
+	}
+	]);
 
 });

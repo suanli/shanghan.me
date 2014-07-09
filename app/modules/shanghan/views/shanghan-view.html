@@ -13,31 +13,7 @@
                 </div>
                 <div class="row sh-item-recipe" ng-show="singleItem.recipe">
                     <div class="row" ng-repeat="recipe in singleItem.recipe">
-                        <div class="col-md-12">
-                            <div class="row">
-                                <div class="col-md-12 sh-item-recipe-title">
-                                    <strong>{{recipe.title}}</strong>
-                                </div>
-                            </div>
-                            <div class="row sh-item-recipe-text">
-                                <div class="col-md-12">
-                                    <div class="row" ng-repeat="rows in recipe.herbs | partition:3">
-                                        <div class="col-md-4 sh-herb" ng-repeat="item in rows">
-                                            <strong>{{item.herb}}</strong>&nbsp;
-                                            <small ng-show="item.weight_prefix">{{item.weight_prefix}}</small>
-                                            <small>{{item.weight}}</small>
-                                            <small ng-show="item.weight_postfix">{{item.weight_postfix}}</small>&nbsp;
-                                            <small ng-show="item.comment">{{item.comment}}</small>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    {{recipe.comment}}
-                                </div>
-                            </div>
-                        </div>
+                        <sh-recipe recipe="recipe"></sh-recipe>
                     </div>
                 </div>
             </div>
