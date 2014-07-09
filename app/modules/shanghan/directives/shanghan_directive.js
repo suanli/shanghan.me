@@ -14,19 +14,30 @@ define(['angular', '../module'], function (ng) {
 				scope: {
 					herb: '='
 				}
-				};
-			}
+			};
+		}
 		])
-	.directive('shRecipe', ['templateConfig', function (templateConfig) {
-		console.log("shanghan directive shRecipe");
-		return {
-			restrict: 'E',
-			templateUrl: templateConfig.path + 'recipe.html',
-			scope: {
-				recipe: '='
-			}
-		};
-	}
-	]);
+		.directive('shRecipe', ['templateConfig', function (templateConfig) {
+			console.log("shanghan directive shRecipe");
+			return {
+				restrict: 'E',
+				templateUrl: templateConfig.path + 'recipe.html',
+				scope: {
+					recipe: '='
+				}
+			};
+		}
+		])
+		.directive('shItem', ['templateConfig', function (templateConfig) {
+			console.log("shanghan directive shItem");
+			return {
+				restrict: 'E',
+				templateUrl: templateConfig.path + 'item.html',
+				scope: {
+					item: '='
+				}
+			};
+		}
+		]);
 
 });

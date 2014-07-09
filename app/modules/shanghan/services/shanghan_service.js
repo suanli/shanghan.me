@@ -9,7 +9,7 @@ define(['angular', '../module'], function (ng) {
 		'$q',
     function ($http, $q) {
 	    var chapter;
-	    var items = {};
+	    var items = [];
 	    var herb;
 	    var weight;
 	    var recipes = {};
@@ -33,6 +33,7 @@ define(['angular', '../module'], function (ng) {
 		    return get('modules/shanghan/data/glgbshl/vol'+index+'/title.json')
 			    .then(function (data){
 				    chapter = data;
+				    return data;
 			    });
 	    };
 
@@ -119,6 +120,11 @@ define(['angular', '../module'], function (ng) {
 		    }
 	    };
 
+	    var reset = function (){
+		    chapter = null;
+		    items = [];
+	    };
+
 	    return {
 		    getTitle: getTitle,
 		    getHerb: getHerb,
@@ -126,6 +132,7 @@ define(['angular', '../module'], function (ng) {
 		    getItem: getItem,
 		    getRecipe: getRecipe,
 		    formatRecipe: formatRecipe,
+		    reset: reset,
 		    getResult: function (){
 			    return { chapter: chapter, items: items};
 		    }

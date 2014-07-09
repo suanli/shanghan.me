@@ -1,24 +1,9 @@
 <div class="sh-main">
     <div ng-controller="mainItemController">
+        <pager total-items="totalItems" items-per-page="itemsPerPage" ng-model="currentPage" ng-change="pageChanged()"></pager>
         <div class="page-header sh-chapter-title"><h1>{{chapter.volumeIndex}}&nbsp;{{chapter.volumeTitle}}</h1></div>
         <div class="row" ng-repeat="singleItem in items">
-            <div class="col-md-1 sh-index"><button type="button" class="btn btn-xs btn-default">
-                {{singleItem.vol}}.{{singleItem.index}}</button>
-            </div>
-            <div class="col-md-11 sh-item-content">
-                <div class="row ">
-                    <div class="col-md-12 sh-item-text">
-                        {{singleItem.text}}
-                    </div>
-                </div>
-                <div class="row sh-item-recipe" ng-show="singleItem.recipe">
-                    <div class="row" ng-repeat="recipe in singleItem.recipe">
-                        <sh-recipe recipe="recipe"></sh-recipe>
-                    </div>
-                </div>
-            </div>
+            <sh-item item="singleItem"></sh-item>
         </div>
-        <pre>The selected page no: {{currentPage}}</pre>
-        <pager total-items="totalItems" ng-model="currentPage" ng-change="pageChanged()"></pager>
     </div>
 </div>
