@@ -9,7 +9,7 @@ define(['angular', 'ui.bootstrap', '../module'], function (ng) {
 			'shQuery',
 			function ($scope, $q, shQuery) {
 				$scope.itemsPerPage = 1;
-				$scope.totalItems = 17;
+				$scope.totalItems = 16;
 				$scope.currentPage = 1;
 				$scope.pageChanged = function() {
 					console.log('Page changed to: ' + $scope.currentPage);
