@@ -1,9 +1,12 @@
-<div class="sh-main">
-    <div ng-controller="mainItemController">
-        <pager total-items="totalItems" items-per-page="itemsPerPage" ng-model="currentPage" ng-change="pageChanged()"></pager>
-        <div class="page-header sh-chapter-title"><h1>{{chapter.volumeIndex}}&nbsp;{{chapter.volumeTitle}}</h1></div>
-        <div class="row" ng-repeat="singleItem in items">
-            <sh-item item="singleItem"></sh-item>
+
+    <div class="sh-main-container" ng-controller="mainItemController">
+        <div class="sh-main-nav-left">left</div>
+        <div class="sh-main-nav-right">right</div>
+        <div class="sh-text-container">
+            <pagination direction-links="false" items-per-page="itemsPerPage" total-items="totalItems" ng-model="currentPage" num-pages="smallnumPages" ng-change="pageChanged()"></pagination>
+            <div class="page-header"><h1>{{chapter.volumeIndex}}&nbsp;{{chapter.volumeTitle}}</h1></div>
+            <div ng-repeat="singleItem in items">
+                <sh-item item="singleItem"></sh-item>
+            </div>
         </div>
     </div>
-</div>

@@ -355,41 +355,85 @@
 }
 
 /* CSS goes in here */
-.sh-main {
-  background-color: #ffffee;
-  border-color: #dcdcdc;
-  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 0 rgba(255, 255, 255, 0.1);
-  max-width: 820px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 10px 45px 5px 45px;
+body {
+  background-color: #d7d7cb;
 }
-.sh-item-content {
-  border-top: 1px solid #333333;
-  border-left: 1px solid #333333;
-  border-right: 1px solid #333333;
+.sh-main-container {
+  position: relative;
+  max-width: 900px;
+  margin: auto;
+}
+.sh-main-nav-left {
+  float: left;
+  width: 60px;
+  border: solid;
+  border-width: 2px;
+}
+.sh-main-nav-right {
+  float: right;
+  width: 60px;
+  border: solid;
+  border-width: 2px;
+}
+.sh-text-container {
+  background-color: #ebe5c3;
+  margin-left: 60px;
+  margin-right: 60px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.sh-item-container {
+  position: relative;
+  padding-top: 5px;
+}
+.sh-item-tag-index {
+  float: left;
+  width: 60px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 5px;
+  text-align: center;
+  padding-top: 11px;
+  font-weight: bold;
+  background-color: #d2b597;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.sh-item-main {
+  min-height: 60px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 65px;
+  border-left: solid 5px #d2b597;
+  -moz-box-shadow: 2px 2px 10px #909090;
+  -webkit-box-shadow: 2px 2px 10px #909090;
 }
 .sh-item-text {
-  border-bottom: 1px solid #333333;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding: 5px;
+  line-height: 24px;
+  letter-spacing: 2px;
 }
 .sh-item-recipe {
-  padding-top: 5px;
-  padding-bottom: 5px;
-  border-bottom: 1px solid #333333;
+  margin-top: 5px;
+  padding: 8px;
+  background-color: #f9f5dc;
+  border-top: 1px solid #ffffee;
 }
 .sh-item-recipe-title {
+  font-weight: bold;
   text-align: center;
-  padding-top: 5px;
-  padding-bottom: 10px;
+  line-height: 24px;
+  letter-spacing: 2px;
 }
-.sh-item-recipe-text {
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 20px;
-  padding-right: 20px;
+.sh-item-herb {
+  width: 100%;
+  border: 1px black;
+  padding: 10px;
+  line-height: 24px;
+  letter-spacing: 2px;
+  margin: 0px 20px 0px 10px;
 }
-.sh-herb {
-  padding: 5px 2px 5px 2px;
+.sh-item-recipe-comment {
+  line-height: 24px;
+  letter-spacing: 2px;
 }

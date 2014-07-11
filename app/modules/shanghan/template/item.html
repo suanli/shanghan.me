@@ -1,17 +1,9 @@
-<div ng-show="item">
-    <div class="col-md-1 sh-index">
-        <button type="button" class="btn btn-xs btn-default">
-            {{item.vol}}.{{item.index}}
-        </button>
-    </div>
-    <div class="col-md-11 sh-item-content">
-        <div class="row ">
-            <div class="col-md-12 sh-item-text">
-                {{item.text}}
-            </div>
-        </div>
-        <div class="row sh-item-recipe" ng-show="item.recipe">
-            <div class="row" ng-repeat="recipe in item.recipe">
+<div ng-show="item" class="sh-item-container">
+    <div class="sh-item-tag-index">{{item.vol}}.{{item.index}}</div>
+    <div class="sh-item-main">
+        <div class="sh-item-text">{{item.text}}</div>
+        <div ng-show="item.recipe">
+            <div ng-repeat="recipe in item.recipe">
                 <sh-recipe recipe="recipe"></sh-recipe>
             </div>
         </div>
