@@ -1,7 +1,7 @@
 /**
  * @file Instantiates and configures angular modules for your module.
  */
-define(['angular', 'angular_bootstrap'], function (ng) {
+define(['angular', 'angularBootstrap'], function (ng) {
   console.log("shanghan module.js");
   'use strict';
 

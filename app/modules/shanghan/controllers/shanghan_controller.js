@@ -1,4 +1,4 @@
-define(['angular', 'ui.bootstrap', '../module'], function (ng) {
+define(['angular', 'angularBootstrap', '../module'], function (ng) {
   console.log("shanghan controller");
   'use strict';
 

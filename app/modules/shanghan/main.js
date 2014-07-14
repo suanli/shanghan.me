@@ -5,7 +5,7 @@ define([
   'jquery',
   'angular',
 	'bootstrap',
-	'angular_bootstrap',
+	'angularBootstrap',
   './services/shanghan_service',
   './directives/shanghan_directive',
   //'./factories/shanghan_factory',
