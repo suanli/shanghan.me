@@ -358,7 +358,7 @@ module.exports = function (grunt) {
         },
 	        {
 		        expand: true,
-		        cwd: '<%= appConfig.dev.path %>/components/angular-ui-bootstrap/template/',
+		        cwd: '<%= appConfig.dev.path %>/template/',
 		        dest: '<%= appConfig.dist.path %>/template/',
 		        src: [
 			        '**/*.html'

@@ -57,7 +57,7 @@ define(['angular', '../module'], function (ng) {
       * it allows you to test the app against a aws server
       * running either in dev, staging or production
       */
-      var domain = 'http://localhost:8080';
+      var domain = 'http://localhost:9000/';
 
       $httpProvider.defaults.withCredentials = withCredentials;
 
