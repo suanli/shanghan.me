@@ -31,7 +31,7 @@ define(['angular'], function (ng) {
 
       CSTemplateProvider.setPath('/modules/application/views');
 
-      //CSHttpOptionsProvider.setDomain('http://du.shanghan.me/');
+      CSHttpOptionsProvider.setDomain('http://du.shanghan.me/');
 
       CSSessionProvider.setSessionService('CSSessionService');
 
