@@ -1,20 +1,19 @@
 
     <div class="sh-main-container" ng-controller="mainItemController">
-        <div class="sh-main-nav-left"><a><span class="glyphicon glyphicon-list"></span></a></div>
+        <div class="sh-main-nav-left"><a herf="" ng-click="clickContentBtn()"><span class="glyphicon glyphicon-list"></span></a></div>
         <div class="sh-main-nav-contents" ng-show="status.showContent" >
             <div ng-repeat="vol in content">
-                <strong>{{vol.volumeTitle}}</strong>
-                <li  class="list-unstyled" ng-repeat="cap in vol.capterTitle">
-                    {{cap}}
+                <a herf="" ng-click="changeChapter(vol.volumeIndex, 0)"><strong>{{vol.volumeTitle}}</strong></a>
+                <li class="list-unstyled" ng-repeat="cap in vol.capterTitle">
+                    <a herf="" ng-click="changeChapter(vol.volumeIndex, $index)">{{cap}}</a>
                 </li>
             </div>
         </div>
         <div class="sh-main-nav-right">right</div>
         <div class="sh-text-container">
-            <pagination direction-links="false" items-per-page="itemsPerPage" total-items="totalItems" ng-model="currentPage" num-pages="smallnumPages" ng-change="pageChanged()"></pagination>
             <div class="page-header"><h1>{{chapter.volumeTitle}}</h1></div>
-            <div class="page-header"><h1>{{chapter.capterTitle[0]}}</h1></div>
-            <div ng-repeat="singleItem in items">
+            <div class="page-header"><h1>{{chapter.capterTitle[status.currentCapter]}}</h1></div>
+            <div ng-repeat="singleItem in items track by $index">
                 <sh-item item="singleItem"></sh-item>
             </div>
         </div>

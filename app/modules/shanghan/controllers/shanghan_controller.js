@@ -9,22 +9,31 @@
 			'shQuery',
 			function ($scope, $q, shQuery) {
         $scope.status = {
+          currentVol: 1,
+          currentCapter: 0,
           showContent: false
         };
-				$scope.itemsPerPage = 1;
-				$scope.totalItems = 16;
-				$scope.currentPage = 1;
-				$scope.pageChanged = function() {
-					console.log('Page changed to: ' + $scope.currentPage);
+				$scope.changeChapter = function(vol, capter) {
+					console.log('Page changed to: ' + vol +"," + capter);
+          $scope.status.currentVol = vol;
+          $scope.status.currentCapter = capter;
+          $scope.status.showContent = false;
 					shReload();
 				};
+        $scope.clickContentBtn = function (){
+          $scope.status.showContent = !$scope.status.showContent;
+        };
+
 				var shReload = function (){
 					shQuery.reset();
-					shQuery.getTitle($scope.currentPage)
+					shQuery.getTitle($scope.status.currentVol)
 						.then(function (data){
 							var promiseArray = [];
-							for(var i = data.capterRange[0].start; i< data.capterRange[0].end; i++){
-								promiseArray.push(shQuery.getItem($scope.currentPage, i))
+							for(var i = data.capterRange[$scope.status.currentCapter].start;
+                  i< data.capterRange[$scope.status.currentCapter].end;
+                  i++){
+                console.log("push "+i);
+								promiseArray.push(shQuery.getItem($scope.status.currentVol, i))
 							}
 							promiseArray.push(shQuery.getHerb());
 							promiseArray.push(shQuery.getWeight());
@@ -61,9 +70,7 @@
 
         shQuery.getContent().
           then(function (data){
-            console.log(data);
             $scope.content = data;
-            $scope.status.showContent = true;
           });
 
 				shReload();
