@@ -1,46 +1,64 @@
 /* CSS goes in here */
-body{
+body {
   background-color: #d7d7cb;
 }
-.sh-main-container{
+.sh-main-container {
   position: relative;
   max-width: 900px;
   margin: auto;
 }
-
-.sh-main-nav-left{
+.sh-main-nav-left {
   float: left;
+  width: 60px;
+  margin-top: 60px;
+  margin-right: 5px;
+  text-align: right;
+  font-size: 2.5em;
+}
+
+.sh-main-nav-contents{
+  position: absolute;
+  top: 20px;
+  left: 60px;
+  width: 300px;
+  height: 500px;
+  background-color: #d7d7cb;
+  z-index:10;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  line-height: 24px;
+  letter-spacing: 2px;
+  padding: 20px;
+  -moz-box-shadow: 2px 2px 10px #909090;
+  -webkit-box-shadow: 2px 2px 10px #909090;
+  border-left: solid 5px #428bca;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.sh-main-nav-right {
+  float: right;
   width: 60px;
   border: solid;
   border-width: 2px;
 }
-
-.sh-main-nav-right{
-  float:right;
-  width:60px;
-  border: solid;
-  border-width: 2px;
-}
-
-.sh-text-container{
+.sh-text-container {
   background-color: #ebe5c3;
   margin-left: 60px;
   margin-right: 60px;
   overflow-y: scroll;
-  overflow-x:hidden;
+  overflow-x: hidden;
 }
-
-.sh-item-container{
+.sh-item-container {
   position: relative;
   padding-top: 5px;
 }
-
-.sh-item-tag-index{
+.sh-item-tag-index {
   float: left;
   width: 60px;
-  height:40px;
-  margin-top:10px;
-  margin-left:5px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 5px;
   text-align: center;
   padding-top: 11px;
   font-weight: bold;
@@ -48,38 +66,33 @@ body{
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
-
-.sh-item-main{
+.sh-item-main {
   min-height: 60px;
   margin-bottom: 10px;
   margin-right: 5px;
-  margin-left:65px;
+  margin-left: 65px;
   border-left: solid 5px #d2b597;
   -moz-box-shadow: 2px 2px 10px #909090;
   -webkit-box-shadow: 2px 2px 10px #909090;
 }
-
-.sh-item-text{
+.sh-item-text {
   padding: 5px;
   line-height: 24px;
   letter-spacing: 2px;
 }
-
-.sh-item-recipe{
+.sh-item-recipe {
   margin-top: 5px;
   padding: 8px;
   background-color: #f9f5dc;
   border-top: 1px solid #ffffee;
 }
-
-.sh-item-recipe-title{
+.sh-item-recipe-title {
   font-weight: bold;
   text-align: center;
   line-height: 24px;
   letter-spacing: 2px;
 }
-
-.sh-item-herb{
+.sh-item-herb {
   width: 100%;
   border: 1px black;
   padding: 10px;
@@ -87,8 +100,7 @@ body{
   letter-spacing: 2px;
   margin: 0px 20px 0px 10px;
 }
-
-.sh-item-recipe-comment{
+.sh-item-recipe-comment {
   line-height: 24px;
   letter-spacing: 2px;
 }

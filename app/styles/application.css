@@ -366,8 +366,29 @@ body {
 .sh-main-nav-left {
   float: left;
   width: 60px;
-  border: solid;
-  border-width: 2px;
+  margin-top: 60px;
+  margin-right: 5px;
+  text-align: right;
+  font-size: 2.5em;
+}
+.sh-main-nav-contents {
+  position: absolute;
+  top: 20px;
+  left: 60px;
+  width: 300px;
+  height: 500px;
+  background-color: #d7d7cb;
+  z-index: 10;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  line-height: 24px;
+  letter-spacing: 2px;
+  padding: 20px;
+  -moz-box-shadow: 2px 2px 10px #909090;
+  -webkit-box-shadow: 2px 2px 10px #909090;
+  border-left: solid 5px #428bca;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 .sh-main-nav-right {
   float: right;

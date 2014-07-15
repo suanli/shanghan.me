@@ -89,6 +89,13 @@ define(['angular', '../module'], function (ng) {
 			    });
 	    };
 
+      var getContent = function (){
+        return get('modules/shanghan/data/glgbshl/content.json')
+          .then(function (data){
+            return data;
+          });
+      };
+
 	    var formatRecipe = function (){
 		    for(var i in items)
 		    {
@@ -132,6 +139,7 @@ define(['angular', '../module'], function (ng) {
 		    getItem: getItem,
 		    getRecipe: getRecipe,
 		    formatRecipe: formatRecipe,
+        getContent: getContent,
 		    reset: reset,
 		    getResult: function (){
 			    return { chapter: chapter, items: items};

@@ -1,4 +1,4 @@
-define(['angular', 'angularBootstrap', '../module'], function (ng) {
+ define(['angular', 'angularBootstrap', '../module'], function (ng) {
   console.log("shanghan controller");
   'use strict';
 
@@ -8,6 +8,9 @@ define(['angular', 'angularBootstrap', '../module'], function (ng) {
 			'$q',
 			'shQuery',
 			function ($scope, $q, shQuery) {
+        $scope.status = {
+          showContent: false
+        };
 				$scope.itemsPerPage = 1;
 				$scope.totalItems = 16;
 				$scope.currentPage = 1;
@@ -55,6 +58,14 @@ define(['angular', 'angularBootstrap', '../module'], function (ng) {
 								});
 						});
 				};
+
+        shQuery.getContent().
+          then(function (data){
+            console.log(data);
+            $scope.content = data;
+            $scope.status.showContent = true;
+          });
+
 				shReload();
 			}]);
 });
