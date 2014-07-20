@@ -1,0 +1,5 @@
+<inline ng-repeat="one in textBlock">
+    {{one.text}}
+    <a ng-show="one.comment" popover-placement="bottom" popover="{{one.comment}}"><sup><span
+            class="glyphicon glyphicon-info-sign"></span></sup></a>
+</inline>

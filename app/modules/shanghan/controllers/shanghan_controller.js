@@ -32,7 +32,6 @@
 							for(var i = data.capterRange[$scope.status.currentCapter].start;
                   i< data.capterRange[$scope.status.currentCapter].end;
                   i++){
-                console.log("push "+i);
 								promiseArray.push(shQuery.getItem($scope.status.currentVol, i))
 							}
 							promiseArray.push(shQuery.getHerb());

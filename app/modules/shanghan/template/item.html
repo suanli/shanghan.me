@@ -1,7 +1,8 @@
 <div ng-show="item" class="sh-item-container">
     <div class="sh-item-tag-index">{{item.vol}}.{{item.index}}</div>
     <div class="sh-item-main">
-        <div class="sh-item-text">{{item.text}}</div>
+        <div class="sh-item-text" text="item.text" comments="item.text_comment">
+        </div>
         <div ng-show="item.recipe">
             <div ng-repeat="recipe in item.recipe">
                 <sh-recipe recipe="recipe"></sh-recipe>
