@@ -46,27 +46,26 @@ define(['angular', '../module'], function (ng) {
       };
     }])
     .directive('shItemText', ['templateConfig', function (templateConfig) {
-      console.log("shanghan directive shComments");
+      console.log("shanghan directive shItemText");
       function link(scope, element, attrs) {
-        console.log("shanghan directive shComments link");
-
+        console.log("shanghan directive shItemText link");
         scope.textBlock = [];
-        if(!scope.comments)
-        {
+        if (!scope.comments) {
           scope.textBlock[0] = {};
           scope.textBlock[0].text = scope.text;
           return;
         }
         var lastPosition = 0;
-        for(var i in scope.comments){
+        for (var i in scope.comments) {
           scope.textBlock[i] = {};
           scope.textBlock[i].text = scope.text.slice(lastPosition, scope.comments[i].position);
           scope.textBlock[i].comment = scope.comments[i].comment;
           lastPosition = scope.comments[i].position;
         }
         scope.textBlock[scope.textBlock.length] = {};
-        scope.textBlock[scope.textBlock.length-1].text = scope.text.slice(lastPosition);
+        scope.textBlock[scope.textBlock.length - 1].text = scope.text.slice(lastPosition);
       }
+
       return {
         restrict: 'C',
         templateUrl: templateConfig.path + 'itemText.html',
