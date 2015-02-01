@@ -1,6 +1,5 @@
 define(['angular', '../module'], function (ng) {
 
-  console.log("shanghan service");
   'use strict';
 
   ng.module('shanghan.services')
@@ -9,7 +8,8 @@ define(['angular', '../module'], function (ng) {
 		'$q',
     function ($http, $q) {
 	    var chapter;
-	    var items = [];
+      var content;
+	    var items;
 	    var herb;
 	    var weight;
 	    var recipes = {};
@@ -23,32 +23,12 @@ define(['angular', '../module'], function (ng) {
 		    return deferred.promise;
 	    };
 
-	    var getTitle = function (index){
-		    if(chapter && chapter[index] == index)
-		    {
-			    var q = $q.defer();
-			    q.resolve();
-			    return q.promise;
-		    }
-		    return get('modules/shanghan/data/glgbshl/vol'+index+'/title.json')
-			    .then(function (data){
-				    chapter = data;
-				    return data;
-			    });
-	    };
-
-	    var getItem = function (chapter, index){
-		    if(items[index] && items[index].chapter == chapter)
-		    {
-			    var q = $q.defer();
-			    q.resolve();
-			    return q.promise;
-		    }
-		    return get('modules/shanghan/data/glgbshl/vol'+chapter+'/'+index+'.json')
-			    .then(function (data){
-				    items[index] = data;
-			    });
-	    };
+      var getChapter = function(vol, chapter) {
+        return get('http://api.shanghan.me/dsh/text?vol='+vol+'&chapter='+chapter)
+          .then(function (data){
+            items = data;
+          });
+      }
 
 	    var getHerb = function (){
 		    if(herb)
@@ -57,9 +37,9 @@ define(['angular', '../module'], function (ng) {
 			    q.resolve();
 			    return q.promise;
 		    }
-		    return get('modules/shanghan/data/glgbshl/herb/herbs.json')
+		    return get('http://api.shanghan.me/dsh/herb')
 			    .then(function (data){
-				    herb = data;
+				    herb = data[0].text;
 			    });
 	    };
 
@@ -70,9 +50,9 @@ define(['angular', '../module'], function (ng) {
 			    q.resolve();
 			    return q.promise;
 		    }
-		    return get('modules/shanghan/data/glgbshl/herb/weights.json')
+		    return get('http://api.shanghan.me/dsh/weight')
 			    .then(function (data){
-				    weight = data;
+				    weight = data[0].text;
 			    });
 	    };
 
@@ -83,15 +63,16 @@ define(['angular', '../module'], function (ng) {
 			    q.resolve();
 			    return q.promise;
 		    }
-		    return get('modules/shanghan/data/glgbshl/recipe/' + name + '.json')
+		    return get('http://api.shanghan.me/dsh/recipe?index=' + name)
 			    .then(function (data){
-				    recipes[name] = data;
+				    recipes[name] = data[0];
 			    });
 	    };
 
       var getContent = function (){
-        return get('modules/shanghan/data/glgbshl/content.json')
+        return get('http://api.shanghan.me/dsh/content/')
           .then(function (data){
+            content = data;
             return data;
           });
       };
@@ -133,16 +114,15 @@ define(['angular', '../module'], function (ng) {
 	    };
 
 	    return {
-		    getTitle: getTitle,
 		    getHerb: getHerb,
 		    getWeight: getWeight,
-		    getItem: getItem,
+        getChapter: getChapter,
 		    getRecipe: getRecipe,
 		    formatRecipe: formatRecipe,
         getContent: getContent,
 		    reset: reset,
 		    getResult: function (){
-			    return { chapter: chapter, items: items};
+			    return { items: items, content: content};
 		    }
 	    };
     }

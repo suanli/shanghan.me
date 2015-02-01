@@ -5,6 +5,7 @@
 .tmp
 .sass-cache
 .DS_Store
+.idea
 libpeerconnection.log
 
 /scripts/*.jar

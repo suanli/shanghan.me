@@ -9,14 +9,16 @@
       'shQuery',
       function ($scope, $q, shQuery) {
         $scope.status = {
-          currentVol: 1,
-          currentCapter: 0,
+          vol: 4,
+          chapter: 1,
+          volTitle: null,
+          chapterTitle: null,
           showContent: false
         };
         $scope.changeChapter = function(vol, capter) {
           console.log('Page changed to: ' + vol +"," + capter);
-          $scope.status.currentVol = vol;
-          $scope.status.currentCapter = capter;
+          $scope.status.vol = vol;
+          $scope.status.chapter = capter;
           $scope.status.showContent = false;
           shReload();
         };
@@ -24,21 +26,43 @@
           $scope.status.showContent = !$scope.status.showContent;
         };
 
+        var getChapterTitle = function(vol, chapter, content){
+          vol --;
+          chapter --;
+          if(vol < content.length)
+          {
+            if(chapter < content[vol].chapters.length)
+              return content[vol].chapters[chapter].title
+          }
+          return null;
+        }
+
+        var getVolTitle = function(vol, content){
+          vol --;
+          if(vol < content.length)
+          {
+            return content[vol].title
+          }
+          return null;
+        }
+
         var shReload = function (){
           shQuery.reset();
-          shQuery.getTitle($scope.status.currentVol)
-            .then(function (data){
+          shQuery.getContent()
+            .then(function (){
               var promiseArray = [];
-              for(var i = data.capterRange[$scope.status.currentCapter].start;
-                  i< data.capterRange[$scope.status.currentCapter].end;
-                  i++){
-                promiseArray.push(shQuery.getItem($scope.status.currentVol, i))
-              }
+              promiseArray.push(shQuery.getChapter($scope.status.vol, $scope.status.chapter));
               promiseArray.push(shQuery.getHerb());
               promiseArray.push(shQuery.getWeight());
               $q.all(promiseArray)
                 .then(function (){
                   var ret = shQuery.getResult();
+                  $scope.content = ret.content;
+                  $scope.status.volTitle = getVolTitle($scope.status.vol, ret.content);
+                  $scope.status.chapterTitle = getChapterTitle($scope.status.vol, $scope.status.chapter, ret.content);
+
+                  console.log($scope.status.volTitle);
+                  console.log($scope.status.chapterTitle);
                   var promiseArray = [];
 
                   for(var i in ret.items)
@@ -54,36 +78,16 @@
                       .then(function (){
                         // Format recipe.
                         shQuery.formatRecipe();
-                        $scope.chapter = ret.chapter;
                         $scope.items = ret.items;
-			
-			// Prevent dup in ng-repeate
-                        for(var i = 0; i < $scope.chapter.capterRange[$scope.status.currentCapter].start; i ++){
-                          $scope.items[i] = {index: i};
-                        }
-                        console.log(JSON.stringify($scope.items, 0, 2));
                       });
                   }
                   else
                   {
-                    $scope.chapter = ret.chapter;
                     $scope.items = ret.items;
-		    
-		    // Prevent dup in ng-repeate
-                    for(var i = 0; i < $scope.chapter.capterRange[$scope.status.currentCapter].start; i ++){
-                      $scope.items[i] = {index: i};
-                    }
-                    console.log(JSON.stringify($scope.items, 0, 2));
                   }
                 });
             });
         };
-
-        shQuery.getContent().
-          then(function (data){
-            $scope.content = data;
-          });
-
         shReload();
       }]);
 });

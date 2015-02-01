@@ -3,16 +3,17 @@
         <div class="sh-main-nav-left"><a herf="" ng-click="clickContentBtn()"><span class="glyphicon glyphicon-list"></span></a></div>
         <div class="sh-main-nav-contents" ng-show="status.showContent" >
             <div ng-repeat="vol in content">
-                <a herf="" ng-click="changeChapter(vol.volumeIndex, 0)"><strong>{{vol.volumeTitle}}</strong></a>
-                <li class="list-unstyled" ng-repeat="cap in vol.capterTitle">
-                    <a herf="" ng-click="changeChapter(vol.volumeIndex, $index)">{{cap}}</a>
+              <a herf="" ng-click="changeChapter(vol.index, 1)"><strong>{{vol.title}}</strong></a>
+              <div ng-repeat="chapter in vol.chapters">
+                <li class="list-unstyled">
+                  <a herf="" ng-click="changeChapter(vol.index, chapter.index)">{{chapter.title}}</a>
                 </li>
+              </div>
             </div>
         </div>
         <div class="sh-main-nav-right">right</div>
         <div class="sh-text-container">
-            <div class="page-header"><h1>{{chapter.volumeTitle}}</h1></div>
-            <div class="page-header"><h1>{{chapter.capterTitle[status.currentCapter]}}</h1></div>
+            <div class="page-header"><h1>{{status.volTitle}}|{{status.chapterTitle}}</h1></div>
             <div ng-repeat="singleItem in items">
                 <sh-item item="singleItem"></sh-item>
             </div>
